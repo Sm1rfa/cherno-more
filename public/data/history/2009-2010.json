@@ -1,0 +1,3784 @@
+{
+  "season": "2009-2010",
+  "summary": {
+    "played": 30,
+    "wins": 13,
+    "draws": 9,
+    "losses": 8,
+    "goalsFor": 40,
+    "goalsAgainst": 28,
+    "cleanSheets": 12,
+    "coaches": {
+      "Никола Спасов": 5,
+      "Велизар Попов": 22,
+      "Радослав Боянов (пом.треньор, заместващ наказания Велизар Попов)": 2
+    }
+  },
+  "topScorers": [
+    {
+      "name": "Мирослав Манолов",
+      "number": 31,
+      "goals": 6
+    },
+    {
+      "name": "Адемар",
+      "number": 3,
+      "goals": 5
+    },
+    {
+      "name": "Георги Илиев",
+      "number": 21,
+      "goals": 4
+    },
+    {
+      "name": "Даниел Георгиев",
+      "number": 23,
+      "goals": 4
+    },
+    {
+      "name": "Георги Божилов",
+      "number": 14,
+      "goals": 2
+    },
+    {
+      "name": "Даниел Димов",
+      "number": 10,
+      "goals": 2
+    },
+    {
+      "name": "Георги Какалов",
+      "number": 9,
+      "goals": 2
+    },
+    {
+      "name": "Герасим Заков",
+      "number": 9,
+      "goals": 2
+    },
+    {
+      "name": "Атанас Борносузов",
+      "number": 8,
+      "goals": 1
+    },
+    {
+      "name": "Тодор Колев",
+      "number": 9,
+      "goals": 1
+    },
+    {
+      "name": "Танко Дяков",
+      "number": 6,
+      "goals": 1
+    },
+    {
+      "name": "Николай Домакинов",
+      "number": 5,
+      "goals": 1
+    },
+    {
+      "name": "Данийл Ратников",
+      "number": 27,
+      "goals": 1
+    }
+  ],
+  "topAssisters": [
+    {
+      "name": "Мирослав Манолов",
+      "number": 31,
+      "assists": 1
+    },
+    {
+      "name": "Георги Илиев",
+      "number": 21,
+      "assists": 4
+    },
+    {
+      "name": "Даниел Георгиев",
+      "number": 23,
+      "assists": 1
+    },
+    {
+      "name": "Георги Божилов",
+      "number": 14,
+      "assists": 2
+    },
+    {
+      "name": "Атанас Борносузов",
+      "number": 8,
+      "assists": 4
+    },
+    {
+      "name": "Тодор Колев",
+      "number": 9,
+      "assists": 2
+    },
+    {
+      "name": "Танко Дяков",
+      "number": 6,
+      "assists": 1
+    },
+    {
+      "name": "Ели Маркеш",
+      "number": 28,
+      "assists": 3
+    },
+    {
+      "name": "Здравко Лазаров",
+      "number": 11,
+      "assists": 3
+    },
+    {
+      "name": "Радослав Бачев",
+      "number": 4,
+      "assists": 1
+    },
+    {
+      "name": "Александър Ем.Александров",
+      "number": 25,
+      "assists": 1
+    }
+  ],
+  "mostCarded": [
+    {
+      "name": "Александър Ем.Александров",
+      "number": 25,
+      "yellowCards": 4,
+      "redCards": 1
+    },
+    {
+      "name": "Атанас Борносузов",
+      "number": 8,
+      "yellowCards": 8,
+      "redCards": 0
+    },
+    {
+      "name": "Танко Дяков",
+      "number": 6,
+      "yellowCards": 7,
+      "redCards": 0
+    },
+    {
+      "name": "Мирослав Манолов",
+      "number": 31,
+      "yellowCards": 5,
+      "redCards": 0
+    },
+    {
+      "name": "Адемар",
+      "number": 3,
+      "yellowCards": 5,
+      "redCards": 0
+    },
+    {
+      "name": "Даниел Димов",
+      "number": 10,
+      "yellowCards": 5,
+      "redCards": 0
+    },
+    {
+      "name": "Радослав Бачев",
+      "number": 4,
+      "yellowCards": 5,
+      "redCards": 0
+    },
+    {
+      "name": "Мамуту Кулибали",
+      "number": 84,
+      "yellowCards": 5,
+      "redCards": 0
+    },
+    {
+      "name": "Александър Др.Александров",
+      "number": 15,
+      "yellowCards": 5,
+      "redCards": 0
+    },
+    {
+      "name": "Даниел Георгиев",
+      "number": 23,
+      "yellowCards": 4,
+      "redCards": 0
+    },
+    {
+      "name": "Ели Маркеш",
+      "number": 28,
+      "yellowCards": 4,
+      "redCards": 0
+    },
+    {
+      "name": "Станислав Стоянов",
+      "number": 7,
+      "yellowCards": 4,
+      "redCards": 0
+    },
+    {
+      "name": "Тодор Колев",
+      "number": 9,
+      "yellowCards": 3,
+      "redCards": 0
+    },
+    {
+      "name": "Николай Домакинов",
+      "number": 5,
+      "yellowCards": 3,
+      "redCards": 0
+    },
+    {
+      "name": "Георги Илиев",
+      "number": 21,
+      "yellowCards": 2,
+      "redCards": 0
+    },
+    {
+      "name": "Георги Божилов",
+      "number": 14,
+      "yellowCards": 2,
+      "redCards": 0
+    },
+    {
+      "name": "Георги Какалов",
+      "number": 9,
+      "yellowCards": 2,
+      "redCards": 0
+    },
+    {
+      "name": "Герасим Заков",
+      "number": 9,
+      "yellowCards": 1,
+      "redCards": 0
+    },
+    {
+      "name": "Милен Петков",
+      "number": 22,
+      "yellowCards": 1,
+      "redCards": 0
+    },
+    {
+      "name": "Михаил Лазаров",
+      "number": 20,
+      "yellowCards": 1,
+      "redCards": 0
+    },
+    {
+      "name": "Красен Костов",
+      "number": 5,
+      "yellowCards": 1,
+      "redCards": 0
+    },
+    {
+      "name": "Георги Аврамов",
+      "number": 18,
+      "yellowCards": 1,
+      "redCards": 0
+    },
+    {
+      "name": "Ели Марекш",
+      "number": 28,
+      "yellowCards": 1,
+      "redCards": 0
+    },
+    {
+      "name": "Румен Николов",
+      "number": 90,
+      "yellowCards": 1,
+      "redCards": 0
+    },
+    {
+      "name": "Йордан Юруков",
+      "number": 77,
+      "yellowCards": 1,
+      "redCards": 0
+    }
+  ],
+  "matches": [
+    {
+      "round": "1 кръг",
+      "date": "2009-08-09",
+      "opponent": "ЧББ",
+      "isHome": false,
+      "score": "2:1",
+      "venue": "ст.\"Лазур\"",
+      "city": "Бургас",
+      "referee": "Ивайло Стоянов (Петрич)",
+      "attendance": 850,
+      "weather": null,
+      "events": [
+        {
+          "type": "goal",
+          "minute": "1",
+          "scorer": "Йордан Юруков",
+          "assist": "Мирослав Манолов",
+          "isPenalty": false,
+          "isOwnGoal": false,
+          "forUs": true
+        },
+        {
+          "type": "goal",
+          "minute": "5",
+          "scorer": "Ектор Гонсалес",
+          "assist": "Адриан Фернандес",
+          "isPenalty": false,
+          "isOwnGoal": false,
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "9",
+          "player": "Орлин Старокин",
+          "forUs": false
+        },
+        {
+          "type": "goal",
+          "minute": "14",
+          "scorer": "Мишел",
+          "assist": "Адриан Фернандес",
+          "isPenalty": false,
+          "isOwnGoal": false,
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "20",
+          "player": "Нилтон",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "26",
+          "player": "Атанас Борносузов",
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "30",
+          "player": "Николай Кръстев",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "34",
+          "in": "Георги Какалов",
+          "out": "Йордан Юруков",
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "39",
+          "player": "Нилтон",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "red",
+          "minute": "39",
+          "player": "Нилтон",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "45",
+          "player": "Мамуту Кулибали",
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "45+1",
+          "player": "Ектор Гонсалес",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "46",
+          "in": "Станислав Стоянов",
+          "out": "Мамуту Кулибали",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "46",
+          "in": "Цветомир Цонков",
+          "out": "Роберто Карбони",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "59",
+          "player": "Мирослав Манолов",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "68",
+          "in": "Матиас Морис",
+          "out": "Адриан Фернандес",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "83",
+          "in": "Костадин Дяков",
+          "out": "Мишел",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "84",
+          "player": "Георги Какалов",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "85",
+          "in": "Даниел Димов",
+          "out": "Атанас Борносузов",
+          "forUs": true
+        }
+      ]
+    },
+    {
+      "round": "2 кръг",
+      "date": "2009-08-16",
+      "opponent": "Сливен 2000",
+      "isHome": true,
+      "score": "4:0",
+      "venue": "ст.\"Тича\"",
+      "city": "Варна",
+      "referee": "Александър Костадинов (Сф)",
+      "attendance": 990,
+      "weather": null,
+      "events": [
+        {
+          "type": "goal",
+          "minute": "11",
+          "scorer": "Мирослав Манолов",
+          "assist": "Даниел Георгиев",
+          "isPenalty": false,
+          "isOwnGoal": false,
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "red",
+          "minute": "16",
+          "player": "Ивелин Янев",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "17",
+          "player": "Мартин Ковачев",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "41",
+          "player": "Ели Маркеш",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "41",
+          "in": "Станислав Стоянов",
+          "out": "Здравко Лазаров",
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "44",
+          "player": "Васил Велев",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "45",
+          "in": "Радослав Бачев",
+          "out": "Адемар",
+          "forUs": true
+        },
+        {
+          "type": "goal",
+          "minute": "45+2",
+          "scorer": "Даниел Георгиев",
+          "assist": null,
+          "isPenalty": false,
+          "isOwnGoal": false,
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "46",
+          "player": "Величко Величков",
+          "forUs": false
+        },
+        {
+          "type": "goal",
+          "minute": "55",
+          "scorer": "Мирослав Манолов",
+          "assist": "Ели Маркеш",
+          "isPenalty": false,
+          "isOwnGoal": false,
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "58",
+          "in": "Деян Христов",
+          "out": "Мирослав Миндев",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "60",
+          "in": "Виктор Петаков",
+          "out": "Евгени Игнатов",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "64",
+          "in": "Алекс",
+          "out": "Милен Петков",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "74",
+          "in": "Илия Илиев",
+          "out": "Александър Тонев",
+          "forUs": false
+        },
+        {
+          "type": "goal",
+          "minute": "76",
+          "scorer": "Атанас Борносузов",
+          "assist": "Мирослав Манолов",
+          "isPenalty": false,
+          "isOwnGoal": false,
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "85",
+          "player": "Станислав Стоянов",
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "90+2",
+          "player": "Марко Марков",
+          "forUs": false
+        }
+      ]
+    },
+    {
+      "round": "3 кръг",
+      "date": "2009-08-24",
+      "opponent": "Локомотив 1936 (Пд)",
+      "isHome": false,
+      "score": "1:0",
+      "venue": "ст.\"Локомотив\"",
+      "city": "Пловдив",
+      "referee": "Николай Йорданов (Сф)",
+      "attendance": 1330,
+      "weather": null,
+      "events": [
+        {
+          "type": "goal",
+          "minute": "14",
+          "scorer": "Даксон да Силва",
+          "assist": null,
+          "isPenalty": true,
+          "isOwnGoal": false,
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "31",
+          "player": "Фелисиен Сингбо",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "46",
+          "in": "Танко Дяков",
+          "out": "Радослав Бачев",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "54",
+          "in": "Алекс",
+          "out": "Милен Петков",
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "57",
+          "player": "Ели Маркеш",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "61",
+          "in": "Мартин Керчев",
+          "out": "Станислав Стоянов",
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "68",
+          "player": "Даксон да Силва",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "69",
+          "player": "Кирил Акалски",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "72",
+          "in": "Красен Трифонов",
+          "out": "Даксон да Силва",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "81",
+          "in": "Ангел Йошев",
+          "out": "Дани Кики",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "87",
+          "player": "Атанас Борносузов",
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "90+1",
+          "player": "Мамуту Кулибали",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "90+3",
+          "in": "Людмил Николов",
+          "out": "Георги Данов",
+          "forUs": false
+        }
+      ]
+    },
+    {
+      "round": "4 кръг",
+      "date": "2009-08-30",
+      "opponent": "Ботев (Пд)",
+      "isHome": true,
+      "score": "3:0",
+      "venue": "ст.\"Тича\"",
+      "city": "Варна",
+      "referee": "Георги Йорданов (Гб)",
+      "attendance": 2350,
+      "weather": null,
+      "events": [
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "15",
+          "player": "Димитър Витанов",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "red",
+          "minute": "28",
+          "player": "Ерик Кабу",
+          "forUs": false
+        },
+        {
+          "type": "goal",
+          "minute": "32",
+          "scorer": "Георги Какалов",
+          "assist": "Атанас Борносузов",
+          "isPenalty": false,
+          "isOwnGoal": false,
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "33",
+          "player": "Венцислав Велинов",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "46",
+          "in": "Георги Илиев",
+          "out": "Алекс",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "55",
+          "in": "Христо Сталев",
+          "out": "Светослав Илиев",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "56",
+          "player": "Мамуту Кулибали",
+          "forUs": true
+        },
+        {
+          "type": "goal",
+          "minute": "59",
+          "scorer": "Георги Какалов",
+          "assist": "Георги Илиев",
+          "isPenalty": false,
+          "isOwnGoal": false,
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "62",
+          "in": "Тодор Колев",
+          "out": "Даниел Георгиев",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "66",
+          "in": "Антон Вергилов",
+          "out": "Илиян Йорданов",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "80",
+          "in": "Милен Петков",
+          "out": "Георги Какалов",
+          "forUs": true
+        },
+        {
+          "type": "goal",
+          "minute": "83",
+          "scorer": "Мирослав Манолов",
+          "assist": null,
+          "isPenalty": false,
+          "isOwnGoal": false,
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "85",
+          "in": "Борис Благоев",
+          "out": "Деян Бекяров",
+          "forUs": false
+        }
+      ]
+    },
+    {
+      "round": "5 кръг",
+      "date": "2009-09-13",
+      "opponent": "Берое",
+      "isHome": false,
+      "score": "0:0",
+      "venue": "ст.\"Берое\"",
+      "city": "Стара Загора",
+      "referee": "Стефан Спасов (Пк)",
+      "attendance": 2690,
+      "weather": null,
+      "events": [
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "16",
+          "player": "Георги Какалов",
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "32",
+          "player": "Александър Александров",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "34",
+          "player": "Слави Жеков",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "37",
+          "player": "Атанас Борносузов",
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "56",
+          "player": "Мирослав Манолов",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "57",
+          "in": "Костадин Видолов",
+          "out": "Диан Генчев",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "70",
+          "in": "Здравко Лазаров",
+          "out": "Георги Какалов",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "76",
+          "in": "Даниел Георгиев",
+          "out": "Мартин Керчев",
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "77",
+          "player": "Илко",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "84",
+          "in": "Захари Димитров",
+          "out": "Слави Жеков",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "90+1",
+          "in": "Ивайло Паргов",
+          "out": "Георги Андонов",
+          "forUs": false
+        }
+      ]
+    },
+    {
+      "round": "6 кръг",
+      "date": "2009-09-20",
+      "opponent": "Миньор (Пк)",
+      "isHome": true,
+      "score": "1:0",
+      "venue": "ст.\"Тича\"",
+      "city": "Варна",
+      "referee": "Христо Ристосков (Сандански)",
+      "attendance": 1740,
+      "weather": null,
+      "events": [
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "7",
+          "player": "Велимир Иванович",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "14",
+          "player": "Христо Господинов",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "17",
+          "player": "Костадин Марков",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "40",
+          "player": "Георги Илиев",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "46",
+          "in": "Димитър Мутафов",
+          "out": "Костадин Марков",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "46",
+          "in": "Здравко Лазаров",
+          "out": "Милен Петков",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "58",
+          "in": "Даниел Георгиев",
+          "out": "Атанас Борносузов",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "61",
+          "in": "Горан Янкович",
+          "out": "Николай Станков",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "73",
+          "in": "Станислав Стоянов",
+          "out": "Алекс",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "77",
+          "in": "Даниел Златков",
+          "out": "Велимир Иванович",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "83",
+          "player": "Танко Дяков",
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "86",
+          "player": "Горан Янкович",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "87",
+          "player": "Любомир Витанов",
+          "forUs": false
+        },
+        {
+          "type": "goal",
+          "minute": "87",
+          "scorer": "Георги Илиев",
+          "assist": "Здравко Лазаров",
+          "isPenalty": false,
+          "isOwnGoal": false,
+          "forUs": true
+        }
+      ]
+    },
+    {
+      "round": "7 кръг",
+      "date": "2009-09-26",
+      "opponent": "Спортист (Сг)",
+      "isHome": false,
+      "score": "2:1",
+      "venue": "Градски стадион",
+      "city": "Своге",
+      "referee": "Николай Йорданов (Сф)",
+      "attendance": 300,
+      "weather": null,
+      "events": [
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "3",
+          "player": "Стоян Тодоров",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "15",
+          "player": "Александър Др.Александров",
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "33",
+          "player": "Николай Маринов",
+          "forUs": false
+        },
+        {
+          "type": "goal",
+          "minute": "38",
+          "scorer": "Петър Шопов",
+          "assist": "Виктор Дениран",
+          "isPenalty": false,
+          "isOwnGoal": false,
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "45",
+          "player": "Георги Коруджиев",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "46",
+          "in": "Танко Дяков",
+          "out": "Мамуту Кулибали",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "46",
+          "in": "Станислав Стоянов",
+          "out": "Атанас Борносузов",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "50",
+          "in": "Борислав Илиев",
+          "out": "Диан Дончев",
+          "forUs": false
+        },
+        {
+          "type": "goal",
+          "minute": "53",
+          "scorer": "Мирослав Антонов",
+          "assist": "Стойчо Младенов",
+          "isPenalty": false,
+          "isOwnGoal": false,
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "57",
+          "in": "Здравко Лазаров",
+          "out": "Ели Маркеш",
+          "forUs": true
+        },
+        {
+          "type": "goal",
+          "minute": "69",
+          "scorer": "Мирослав Манолов",
+          "assist": "Радослав Бачев",
+          "isPenalty": false,
+          "isOwnGoal": false,
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "73",
+          "in": "Ивайло Димитров",
+          "out": "Николай Маринов",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "83",
+          "player": "Петър Шопов",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "83",
+          "in": "Мартин Димов",
+          "out": "Петър Шопов",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "85",
+          "player": "Милен Петков",
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "88",
+          "player": "Ивайло Димитров",
+          "forUs": false
+        }
+      ]
+    },
+    {
+      "round": "8 кръг",
+      "date": "2009-10-03",
+      "opponent": "Литекс",
+      "isHome": true,
+      "score": "0:0",
+      "venue": "ст.\"Тича\"",
+      "city": "Варна",
+      "referee": "Александър Костадинов (Сф)",
+      "attendance": 1450,
+      "weather": null,
+      "events": [
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "35",
+          "player": "Дока Мадурейра",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "44",
+          "player": "Станислав Стоянов",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "46",
+          "in": "Герасим Заков",
+          "out": "Георги Илиев",
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "50",
+          "player": "Христо Янев",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "57",
+          "player": "Пламен Николов",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "58",
+          "in": "Том",
+          "out": "Диего",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "58",
+          "in": "Уилфред Нифлор",
+          "out": "Дормушали Саидходжа",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "65",
+          "player": "Том",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "67",
+          "player": "Радостин Кишишев",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "69",
+          "player": "Александър Др.Александров",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "74",
+          "in": "Мартин Керчев",
+          "out": "Даниел Георгиев",
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "78",
+          "player": "Уилфред Нифлор",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "85",
+          "in": "Ели Маркеш",
+          "out": "Милен Петков",
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "89",
+          "player": "Радослав Бачев",
+          "forUs": true
+        }
+      ]
+    },
+    {
+      "round": "9 кръг",
+      "date": "2009-10-18",
+      "opponent": "Локомотив (Мз)",
+      "isHome": false,
+      "score": "1:2",
+      "venue": "ст.\"Локомотив\"",
+      "city": "Мездра",
+      "referee": "Антон Генов (Сф)",
+      "attendance": 130,
+      "weather": null,
+      "events": [
+        {
+          "type": "goal",
+          "minute": "20",
+          "scorer": "Исмаил Иса",
+          "assist": "Борислав Хазуров",
+          "isPenalty": false,
+          "isOwnGoal": false,
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "30",
+          "in": "Здравко Лазаров",
+          "out": "Мамуту Кулибали",
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "41",
+          "player": "Страти Илиев",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "45",
+          "player": "Здравко Станков",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "45+1",
+          "player": "Атанас Борносузов",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "46",
+          "in": "Даниел Георгиев",
+          "out": "Ели Маркеш",
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "50",
+          "player": "Димитър Петков",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "55",
+          "player": "Мирослав Манолов",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "65",
+          "in": "Герасим Заков",
+          "out": "Атанас Борносузов",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "68",
+          "in": "Даниел Моралеш",
+          "out": "Майкъл Тевия",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "74",
+          "in": "Анатоли Тодоров",
+          "out": "Страхил Попов",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "81",
+          "player": "Предраг Пажин",
+          "forUs": false
+        },
+        {
+          "type": "goal",
+          "minute": "81",
+          "scorer": "Мирослав Манолов",
+          "assist": null,
+          "isPenalty": true,
+          "isOwnGoal": false,
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "82",
+          "player": "Цветан Зарев",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "85",
+          "in": "Бамба Абудраман",
+          "out": "Страти Илиев",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "87",
+          "player": "Герасим Заков",
+          "forUs": true
+        },
+        {
+          "type": "goal",
+          "minute": "89",
+          "scorer": "Георги Илиев",
+          "assist": "Здравко Лазаров",
+          "isPenalty": false,
+          "isOwnGoal": false,
+          "forUs": true
+        }
+      ]
+    },
+    {
+      "round": "10 кръг",
+      "date": "2009-10-26",
+      "opponent": "Славия",
+      "isHome": true,
+      "score": "1:1",
+      "venue": "ст.\"Тича\"",
+      "city": "Варна",
+      "referee": "Стефан Спасов (Пк)",
+      "attendance": 750,
+      "weather": null,
+      "events": [
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "26",
+          "player": "Мартин Кавдански",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "34",
+          "in": "Николай Дюлгеров",
+          "out": "Диди",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "42",
+          "player": "Галин Богданов",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "45",
+          "player": "Мирослав Манолов",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "46",
+          "in": "Мартин Керчев",
+          "out": "Милен Петков",
+          "forUs": true
+        },
+        {
+          "type": "goal",
+          "minute": "61",
+          "scorer": "Георги Илиев",
+          "assist": "Здравко Лазаров",
+          "isPenalty": false,
+          "isOwnGoal": false,
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "62",
+          "in": "Герасим Заков",
+          "out": "Здравко Лазаров",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "64",
+          "in": "Жуниньо",
+          "out": "Павел Попара",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "85",
+          "in": "Милан Коприваров",
+          "out": "Николай Петров",
+          "forUs": false
+        },
+        {
+          "type": "goal",
+          "minute": "90+1",
+          "scorer": "Жуниньо",
+          "assist": "Тодор Колев",
+          "isPenalty": false,
+          "isOwnGoal": false,
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "90+2",
+          "player": "Жуниньо",
+          "forUs": false
+        }
+      ]
+    },
+    {
+      "round": "11 кръг",
+      "date": "2009-10-30",
+      "opponent": "ПББ",
+      "isHome": false,
+      "score": "1:0",
+      "venue": "ст.\"Осогово\"",
+      "city": "Кюстендил",
+      "referee": "Станислав Ставров (ВТ)",
+      "attendance": 120,
+      "weather": null,
+      "events": [
+        {
+          "type": "goal",
+          "minute": "33",
+          "scorer": "Даниел Пеев",
+          "assist": null,
+          "isPenalty": false,
+          "isOwnGoal": false,
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "46",
+          "in": "Герасим Заков",
+          "out": "Мамату Кулибали",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "46",
+          "in": "Зоран Златковски",
+          "out": "Борис Кондев",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "56",
+          "in": "Мартин Керчев",
+          "out": "Здравко Лазаров",
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "65",
+          "player": "Радослав Анев",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "73",
+          "in": "Благой Наков",
+          "out": "Данел Младенов",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "73",
+          "in": "Георги Какалов",
+          "out": "Атанас Борносузов",
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "77",
+          "player": "Танко Дяков",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "79",
+          "in": "Стефан Станчев",
+          "out": "Даниел Пеев",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "red",
+          "minute": "80",
+          "player": "Мирослав Ризов",
+          "forUs": false
+        }
+      ]
+    },
+    {
+      "round": "12 кръг",
+      "date": "2009-11-07",
+      "opponent": "Локомотив (Сф)",
+      "isHome": true,
+      "score": "4:2",
+      "venue": "ст.\"Тича\"",
+      "city": "Варна",
+      "referee": "Николай Йорданов (Сф)",
+      "attendance": 1530,
+      "weather": null,
+      "events": [
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "19",
+          "player": "Виктор Шпишич",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "25",
+          "player": "Михаил Лазаров",
+          "forUs": true
+        },
+        {
+          "type": "goal",
+          "minute": "27",
+          "scorer": "Даниел Георгиев",
+          "assist": "Георги Илиев",
+          "isPenalty": false,
+          "isOwnGoal": false,
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "35",
+          "player": "Валентин",
+          "forUs": false
+        },
+        {
+          "type": "goal",
+          "minute": "35",
+          "scorer": "Мирослав Манолов",
+          "assist": null,
+          "isPenalty": true,
+          "isOwnGoal": false,
+          "forUs": true
+        },
+        {
+          "type": "goal",
+          "minute": "39",
+          "scorer": "Иван Бандаловски",
+          "assist": "Мартин Камбуров",
+          "isPenalty": false,
+          "isOwnGoal": false,
+          "forUs": false
+        },
+        {
+          "type": "goal",
+          "minute": "44",
+          "scorer": "Николай Домакинов",
+          "assist": "Георги Илиев",
+          "isPenalty": false,
+          "isOwnGoal": false,
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "45+1",
+          "player": "Иво Иванов",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "46",
+          "in": "Марчо Дафчев",
+          "out": "Иво Иванов",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "49",
+          "player": "Светослав Дяков",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "60",
+          "player": "Дарко Савич",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "60",
+          "in": "Танко Дяков",
+          "out": "Александър Др.Александров",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "62",
+          "in": "Димо Атанасов",
+          "out": "Данаил Митев",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "76",
+          "player": "Даниел Георгиев",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "78",
+          "in": "Преслав Йорданов",
+          "out": "Зоран Балдовалиев",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "83",
+          "in": "Мамуту Кулибали",
+          "out": "Николай Домакинов",
+          "forUs": true
+        },
+        {
+          "type": "goal",
+          "minute": "89",
+          "scorer": "Даниел Георгиев",
+          "assist": null,
+          "isPenalty": false,
+          "isOwnGoal": false,
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "90",
+          "in": "Тодор Колев",
+          "out": "Даниел Георгиев",
+          "forUs": true
+        },
+        {
+          "type": "goal",
+          "minute": "90+1",
+          "scorer": "Марчо Дафчев",
+          "assist": "Виктор Шпишич",
+          "isPenalty": false,
+          "isOwnGoal": false,
+          "forUs": false
+        }
+      ]
+    },
+    {
+      "round": "13 кръг",
+      "date": "2009-11-21",
+      "opponent": "Левски (Сф)",
+      "isHome": false,
+      "score": "3:0",
+      "venue": "ст.\"Георги Аспарухов\"",
+      "city": "София",
+      "referee": "Александър Костадинов (Сф)",
+      "attendance": 1600,
+      "weather": null,
+      "events": [
+        {
+          "type": "substitution",
+          "minute": "20",
+          "in": "Мамуту Кулибали",
+          "out": "Милен Петков",
+          "forUs": true
+        },
+        {
+          "type": "goal",
+          "minute": "23",
+          "scorer": "Жоаозиньо",
+          "assist": null,
+          "isPenalty": false,
+          "isOwnGoal": false,
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "25",
+          "player": "Николай Домакинов",
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "25",
+          "player": "Дарко Тасевски",
+          "forUs": false
+        },
+        {
+          "type": "goal",
+          "minute": "28",
+          "scorer": "Седрик Бардон",
+          "assist": null,
+          "isPenalty": true,
+          "isOwnGoal": false,
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "42",
+          "player": "Георги Сърмов",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "45+2",
+          "player": "Георги Илиев",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "46",
+          "in": "Георги Какалов",
+          "out": "Михаил Лазаров",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "52",
+          "in": "Здравко Лазаров",
+          "out": "Даниел Георгиев",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "70",
+          "in": "Николай Димитров",
+          "out": "Жоаозиньо",
+          "forUs": false
+        },
+        {
+          "type": "goal",
+          "minute": "74",
+          "scorer": "Николай Димитров",
+          "assist": "Жозе Соареш",
+          "isPenalty": false,
+          "isOwnGoal": false,
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "77",
+          "in": "Георги Христов",
+          "out": "Дарко Тасевски",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "83",
+          "in": "Христо Йовов",
+          "out": "Жозе Соареш",
+          "forUs": false
+        }
+      ]
+    },
+    {
+      "round": "14 кръг",
+      "date": "2009-11-28",
+      "opponent": "ЦСКА",
+      "isHome": true,
+      "score": "0:0",
+      "venue": "ст.\"Тича\"",
+      "city": "Варна",
+      "referee": "Ахмед Ахмед (Айтос)",
+      "attendance": 7660,
+      "weather": null,
+      "events": [
+        {
+          "type": "substitution",
+          "minute": "46",
+          "in": "Мартин Керчев",
+          "out": "Даниел Георгиев",
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "47",
+          "player": "Александър Др.Александров",
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "63",
+          "player": "Мишел",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "70",
+          "player": "Ели Марекш",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "71",
+          "in": "Йордан Тодоров",
+          "out": "Руи Мигел",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "82",
+          "in": "Николай Манчев",
+          "out": "Спас делев",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "88",
+          "player": "Светослав Петров",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "90",
+          "in": "Тодор Колев",
+          "out": "Ели Маркеш",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "90+1",
+          "in": "Танко Дяков",
+          "out": "Атанас Борносузов",
+          "forUs": true
+        }
+      ]
+    },
+    {
+      "round": "15 кръг",
+      "date": "2009-12-07",
+      "opponent": "Монтана",
+      "isHome": false,
+      "score": "1:2",
+      "venue": "ст.\"Огоста\"",
+      "city": "Монтана",
+      "referee": "Христо Ристосков (Сандански)",
+      "attendance": 900,
+      "weather": null,
+      "events": [
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "6",
+          "player": "Мирослав Иванов",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "6",
+          "player": "Мирослав Иванов",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "red",
+          "minute": "6",
+          "player": "Мирослав Иванов",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "12",
+          "player": "Атанас Борносузов",
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "26",
+          "player": "Бето",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "28",
+          "player": "Бето",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "red",
+          "minute": "28",
+          "player": "Бето",
+          "forUs": false
+        },
+        {
+          "type": "goal",
+          "minute": "45",
+          "scorer": "Даниел Георгиев",
+          "assist": "Атанас Борносузов",
+          "isPenalty": false,
+          "isOwnGoal": false,
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "45+1",
+          "player": "Даниел Димов",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "46",
+          "in": "Владимир Мичев",
+          "out": "Мирослав Петров",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "46",
+          "in": "Здравко Лазаров",
+          "out": "Михаил Лазаров",
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "60",
+          "player": "Даниел Георгиев",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "62",
+          "in": "Герасим Заков",
+          "out": "Даниел Димов",
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "68",
+          "player": "Мирослав Манолов",
+          "forUs": true
+        },
+        {
+          "type": "goal",
+          "minute": "77",
+          "scorer": "Герасим Заков",
+          "assist": "Здравко Лазаров",
+          "isPenalty": false,
+          "isOwnGoal": false,
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "78",
+          "in": "Атанас Фиданин",
+          "out": "Антон Личков",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "79",
+          "in": "Мамуту Кулибали",
+          "out": "Ели Маркеш",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "84",
+          "in": "Жулио Сезар",
+          "out": "Димитър",
+          "forUs": false
+        },
+        {
+          "type": "goal",
+          "minute": "90+1",
+          "scorer": "Николай Николов",
+          "assist": null,
+          "isPenalty": false,
+          "isOwnGoal": false,
+          "forUs": false
+        }
+      ]
+    },
+    {
+      "round": "16 кръг",
+      "date": "2010-03-01",
+      "opponent": "ЧББ",
+      "isHome": true,
+      "score": "2:0",
+      "venue": "ст.\"Тича\"",
+      "city": "Варна",
+      "referee": "Николай Йорданов (Сф)",
+      "attendance": 1300,
+      "weather": null,
+      "events": [
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "15",
+          "player": "Велин Дамянов",
+          "forUs": false
+        },
+        {
+          "type": "goal",
+          "minute": "16",
+          "scorer": "Даниел Димов",
+          "assist": null,
+          "isPenalty": false,
+          "isOwnGoal": false,
+          "forUs": true
+        },
+        {
+          "type": "goal",
+          "minute": "45+2",
+          "scorer": "Адемар",
+          "assist": null,
+          "isPenalty": false,
+          "isOwnGoal": false,
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "53",
+          "player": "Цветомир Цонков",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "61",
+          "in": "Радослав Бачев",
+          "out": "Герасим Заков",
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "62",
+          "player": "Даниел Георгиев",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "64",
+          "in": "Мартин Тошев",
+          "out": "Марсио",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "68",
+          "player": "Александър Др.Александров",
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "71",
+          "player": "Николай Домакинов",
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "73",
+          "player": "Даниел Димов",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "74",
+          "in": "Тодор Колев",
+          "out": "Даниел Георгиев",
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "78",
+          "player": "Рикардо Андре",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "84",
+          "in": "Бранимир Костадинов",
+          "out": "Костадин Дяков",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "87",
+          "player": "Радослав Бачев",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "90",
+          "in": "Енис Хажри",
+          "out": "Цветомир Цонков",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "90",
+          "in": "Михаил Лазаров",
+          "out": "Адемар",
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "90+1",
+          "player": "Емил Копаранов",
+          "forUs": false
+        }
+      ]
+    },
+    {
+      "round": "17 кръг",
+      "date": "2010-03-08",
+      "opponent": "Сливен 2000",
+      "isHome": false,
+      "score": "0:0",
+      "venue": "ст.\"Хаджи Димитър\"",
+      "city": "Сливен",
+      "referee": "Стефан Спасов (Пк)",
+      "attendance": 100,
+      "weather": null,
+      "events": [
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "12",
+          "player": "Радослав Бачев",
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "18",
+          "player": "Васил Велев",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "21",
+          "player": "Ивелин Янев",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "53",
+          "player": "Александър Ем.Александров",
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "60",
+          "player": "Александър Ем.Александров",
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "red",
+          "minute": "60",
+          "player": "Александър Ем.Александров",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "61",
+          "in": "Филип Филипов",
+          "out": "Адриано",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "63",
+          "player": "Ивелин Янев",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "red",
+          "minute": "63",
+          "player": "Ивелин Янев",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "79",
+          "player": "Адемар",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "80",
+          "in": "Тодор Колев",
+          "out": "Адемар",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "81",
+          "in": "Герасим Заков",
+          "out": "Георги Божилов",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "88",
+          "in": "Димо Бакалов",
+          "out": "Александър Тонев",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "90+2",
+          "in": "Николай Димитров",
+          "out": "Васил Велев",
+          "forUs": false
+        }
+      ]
+    },
+    {
+      "round": "18 кръг",
+      "date": "2010-03-14",
+      "opponent": "Локомотив 1936 (Пд)",
+      "isHome": true,
+      "score": "3:2",
+      "venue": "ст.\"Тича\"",
+      "city": "Варна",
+      "referee": "Ахмед Ахмед (Айтос)",
+      "attendance": 3270,
+      "weather": null,
+      "events": [
+        {
+          "type": "goal",
+          "minute": "4",
+          "scorer": "Юнес Бенжелун",
+          "assist": "Даксон да Силва",
+          "isPenalty": false,
+          "isOwnGoal": false,
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "26",
+          "player": "Николай Чипев",
+          "forUs": false
+        },
+        {
+          "type": "goal",
+          "minute": "28",
+          "scorer": "Георги Илиев",
+          "assist": null,
+          "isPenalty": false,
+          "isOwnGoal": false,
+          "forUs": true
+        },
+        {
+          "type": "goal",
+          "minute": "38",
+          "scorer": "Юнес Бенжелун",
+          "assist": "Даксон да Силва",
+          "isPenalty": false,
+          "isOwnGoal": false,
+          "forUs": false
+        },
+        {
+          "type": "goal",
+          "minute": "44",
+          "scorer": "Георги Божилов",
+          "assist": "Георги Илиев",
+          "isPenalty": false,
+          "isOwnGoal": false,
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "45+1",
+          "player": "Георги Мечечиев",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "49",
+          "player": "Танко Дяков",
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "51",
+          "player": "Атанас Борносузов",
+          "forUs": true
+        },
+        {
+          "type": "goal",
+          "minute": "59",
+          "scorer": "Адемар",
+          "assist": "Георги Божилов",
+          "isPenalty": false,
+          "isOwnGoal": false,
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "62",
+          "player": "Георги Божилов",
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "62",
+          "player": "Юнес Бенжелун",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "64",
+          "player": "Гара Дембеле",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "65",
+          "in": "Георги Чиликов",
+          "out": "Боян Илиев",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "66",
+          "in": "Тон",
+          "out": "Николай Чипев",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "67",
+          "player": "Здравко Лазаров",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "69",
+          "player": "Даниел Димов",
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "71",
+          "player": "Радослав Бачев",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "77",
+          "in": "Тодор Колев",
+          "out": "Ели Маркеш",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "80",
+          "in": "Дани Кики",
+          "out": "Даксон да Силва",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "82",
+          "in": "Данийл Ратников",
+          "out": "Георги Божилов",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "90+2",
+          "in": "Михаил Лазаров",
+          "out": "Георги Илиев",
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "90+3",
+          "player": "Николай Домакинов",
+          "forUs": true
+        }
+      ]
+    },
+    {
+      "round": "19 кръг",
+      "date": "2010-03-19",
+      "opponent": "Ботев (Пд)",
+      "isHome": false,
+      "score": "0:3",
+      "venue": null,
+      "city": null,
+      "referee": null,
+      "attendance": null,
+      "weather": null,
+      "events": []
+    },
+    {
+      "round": "20 кръг",
+      "date": "2010-03-25",
+      "opponent": "Берое",
+      "isHome": true,
+      "score": "0:0",
+      "venue": "ст.\"Тича\"",
+      "city": "Варна",
+      "referee": "Христо Ристосков (Сандански)",
+      "attendance": 2530,
+      "weather": null,
+      "events": [
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "45+1",
+          "player": "Атанас Апостолов",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "46",
+          "in": "Тодор Колев",
+          "out": "Александър Др.Александров",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "58",
+          "in": "Герасим Заков",
+          "out": "Ели Маркеш",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "63",
+          "in": "Искрен Писаров",
+          "out": "Атанас Апостолов",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "72",
+          "in": "Антонио Хаджииванов",
+          "out": "Николай Станков",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "77",
+          "in": "Данийл Ратников",
+          "out": "Радослав Бачев",
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "81",
+          "player": "Диан Генчев",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "81",
+          "in": "Симеон Минчев",
+          "out": "Диан Генчев",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "85",
+          "player": "Танко Дяков",
+          "forUs": true
+        }
+      ]
+    },
+    {
+      "round": "21 кръг",
+      "date": "2010-03-28",
+      "opponent": "Миньор (Пк)",
+      "isHome": false,
+      "score": "1:0",
+      "venue": "ст.\"Осогово\"",
+      "city": "Кюстендил",
+      "referee": "Ивайло Стоянов (Петрич)",
+      "attendance": 120,
+      "weather": null,
+      "events": [
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "26",
+          "player": "Тодор Колев",
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "27",
+          "player": "Васил Божиков",
+          "forUs": false
+        },
+        {
+          "type": "goal",
+          "minute": "35",
+          "scorer": "Павле Делибашич",
+          "assist": null,
+          "isPenalty": true,
+          "isOwnGoal": false,
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "46",
+          "in": "Горан Янкович",
+          "out": "Васил Божиков",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "60",
+          "in": "Данийл Ратников",
+          "out": "Йордан Юруков",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "60",
+          "in": "Илиян Капитанов",
+          "out": "Румен Николов",
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "62",
+          "player": "Даниел Златков",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "68",
+          "in": "Любомир Витанов",
+          "out": "Младен Стоев",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "74",
+          "in": "Красен Костов",
+          "out": "Дилян Георгиев",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "79",
+          "in": "Петър Петров",
+          "out": "Павле Делибашич",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "88",
+          "player": "Красен Костов",
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "90",
+          "player": "Георги Аврамов",
+          "forUs": true
+        }
+      ]
+    },
+    {
+      "round": "22 кръг",
+      "date": "2010-04-04",
+      "opponent": "Спортист (Сг)",
+      "isHome": true,
+      "score": "3:0",
+      "venue": "ст.\"Тича\"",
+      "city": "Варна",
+      "referee": "Никола Попов (София)",
+      "attendance": 440,
+      "weather": null,
+      "events": [
+        {
+          "type": "goal",
+          "minute": "16",
+          "scorer": "Тодор Колев",
+          "assist": "Йордан Юруков",
+          "isPenalty": false,
+          "isOwnGoal": false,
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "18",
+          "player": "Стойчо Младенов",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "45+2",
+          "player": "Александър Ем.Александров",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "46",
+          "in": "Борислав Илиев",
+          "out": "Данаил Бачков",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "46",
+          "in": "Ели Маркеш",
+          "out": "Георги Аврамов",
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "52",
+          "player": "Мартин Димов",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "56",
+          "player": "Атанас Борносузов",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "65",
+          "in": "Деян Борисов",
+          "out": "Георги Бижев",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "68",
+          "in": "Румен Николов",
+          "out": "Йордан Юруков",
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "72",
+          "player": "Лъчезар Младенов",
+          "forUs": false
+        },
+        {
+          "type": "goal",
+          "minute": "73",
+          "scorer": "Танко Дяков",
+          "assist": "Ели Маркеш",
+          "isPenalty": false,
+          "isOwnGoal": false,
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "74",
+          "in": "Станислав Стоянов",
+          "out": "Александър Ем.Александров",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "80",
+          "in": "Петър Василев",
+          "out": "Николай Цветков",
+          "forUs": false
+        },
+        {
+          "type": "goal",
+          "minute": "83",
+          "scorer": "Даниел Димов",
+          "assist": "Тодор Колев",
+          "isPenalty": false,
+          "isOwnGoal": false,
+          "forUs": true
+        }
+      ]
+    },
+    {
+      "round": "23 кръг",
+      "date": "2010-04-11",
+      "opponent": "Литекс",
+      "isHome": false,
+      "score": "4:0",
+      "venue": "Градски стадион",
+      "city": "Ловеч",
+      "referee": "Стефан Спасов (Пк)",
+      "attendance": 400,
+      "weather": null,
+      "events": [
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "3",
+          "player": "Мамуту Кулибали",
+          "forUs": true
+        },
+        {
+          "type": "goal",
+          "minute": "4",
+          "scorer": "Александър Барт",
+          "assist": "Христо Янев",
+          "isPenalty": false,
+          "isOwnGoal": false,
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "22",
+          "player": "Танко Дяков",
+          "forUs": true
+        },
+        {
+          "type": "goal",
+          "minute": "36",
+          "scorer": "Ивелин Попов",
+          "assist": "Уилфред Нифлор",
+          "isPenalty": false,
+          "isOwnGoal": false,
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "46",
+          "in": "Ели Маркеш",
+          "out": "Мамуту Кулибали",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "46",
+          "in": "Йордан Юруков",
+          "out": "Танко Дяков",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "60",
+          "in": "Станислав Стоянов",
+          "out": "Даниел Димов",
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "66",
+          "player": "Христо Янев",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "70",
+          "in": "Том",
+          "out": "Христо Янев",
+          "forUs": false
+        },
+        {
+          "type": "goal",
+          "minute": "79",
+          "scorer": "Дока Мадурейра",
+          "assist": null,
+          "isPenalty": false,
+          "isOwnGoal": false,
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "82",
+          "in": "Георги Миланов",
+          "out": "Дока Мадурейра",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "83",
+          "player": "Уилфред Нифлор",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "83",
+          "in": "Светослав Тодоров",
+          "out": "Ивелин Попов",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "87",
+          "player": "Том",
+          "forUs": false
+        },
+        {
+          "type": "goal",
+          "minute": "89",
+          "scorer": "Уилфред Нифлор",
+          "assist": "Светослав Тодоров",
+          "isPenalty": false,
+          "isOwnGoal": false,
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "90+1",
+          "player": "Александър Ем.Александров",
+          "forUs": true
+        }
+      ]
+    },
+    {
+      "round": "24 кръг",
+      "date": "2010-04-14",
+      "opponent": "Локомотив (Мз)",
+      "isHome": true,
+      "score": "2:0",
+      "venue": "ст.\"Тича\"",
+      "city": "Варна",
+      "referee": "Вихрен Манев (Сф)",
+      "attendance": 580,
+      "weather": null,
+      "events": [
+        {
+          "type": "goal",
+          "minute": "10",
+          "scorer": "Румен Николов",
+          "assist": "Георги Божилов",
+          "isPenalty": false,
+          "isOwnGoal": false,
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "11",
+          "player": "Танко Дяков",
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "22",
+          "player": "Димитър Петков",
+          "forUs": false
+        },
+        {
+          "type": "goal",
+          "minute": "35",
+          "scorer": "Предраг Пажин АВТОГОЛ",
+          "assist": null,
+          "isPenalty": false,
+          "isOwnGoal": true,
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "36",
+          "player": "Румен Николов",
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "37",
+          "player": "Предраг Пажин",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "55",
+          "in": "Боян Табаков",
+          "out": "Анатоли Тодоров",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "58",
+          "in": "Станислав Стоянов",
+          "out": "Йордан Юруков",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "60",
+          "in": "Тодор Колев",
+          "out": "Георги Божилов",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "61",
+          "in": "Атанас Киров",
+          "out": "Страти Илиев",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "68",
+          "in": "Данийл Ратников",
+          "out": "Румен Николов",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "70",
+          "in": "Борислав Балджийски",
+          "out": "Мартин Керчев",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "71",
+          "player": "Борислав Балджийски",
+          "forUs": false
+        }
+      ]
+    },
+    {
+      "round": "25 кръг",
+      "date": "2010-04-17",
+      "opponent": "Славия",
+      "isHome": false,
+      "score": "1:0",
+      "venue": "ст.\"Славия\"",
+      "city": "София",
+      "referee": "Георги Йорданов (Гб)",
+      "attendance": 90,
+      "weather": null,
+      "events": [
+        {
+          "type": "goal",
+          "minute": "10",
+          "scorer": "Николай Дюлгеров",
+          "assist": null,
+          "isPenalty": false,
+          "isOwnGoal": false,
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "19",
+          "player": "Атанас Борносузов",
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "39",
+          "player": "Петър Димитров",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "44",
+          "player": "Георги Божилов",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "46",
+          "in": "Йордан Юруков",
+          "out": "Румен Николов",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "46",
+          "in": "Георги Аврамов",
+          "out": "Георги Божилов",
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "47",
+          "player": "Николай Дюлгеров",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "62",
+          "player": "Адемар",
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "62",
+          "player": "Йордан Петков",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "64",
+          "in": "Галин Иванов",
+          "out": "Петър Димитров",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "66",
+          "in": "Данийл Ратников",
+          "out": "Михаил Лазаров",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "75",
+          "in": "Тодор Колев",
+          "out": "Николай Вълев",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "84",
+          "in": "Александър Томаш",
+          "out": "Роберт Петров",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "86",
+          "player": "Радослав Бачев",
+          "forUs": true
+        }
+      ]
+    },
+    {
+      "round": "26 кръг",
+      "date": "2010-04-21",
+      "opponent": "ПББ",
+      "isHome": true,
+      "score": "1:1",
+      "venue": "ст.\"Тича\"",
+      "city": "Варна",
+      "referee": "Ивайло Бозев (Пд)",
+      "attendance": 330,
+      "weather": null,
+      "events": [
+        {
+          "type": "goal",
+          "minute": "29",
+          "scorer": "Зоран Златковски",
+          "assist": null,
+          "isPenalty": true,
+          "isOwnGoal": false,
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "37",
+          "player": "Илко",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "46",
+          "in": "Йордан Юруков",
+          "out": "Ели Маркеш",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "57",
+          "in": "Калоян Стоянов",
+          "out": "Зоран Златковски",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "59",
+          "in": "Тодор Колев",
+          "out": "Даниел Димов",
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "60",
+          "player": "Георги Георгиев",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "66",
+          "in": "Данийл Ратников",
+          "out": "Румен Николов",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "85",
+          "in": "Иван Михов",
+          "out": "Диян Молдованов",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "89",
+          "in": "Костадин Кацимерски",
+          "out": "Янко Сандански",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "90+2",
+          "player": "Даниел Младенов",
+          "forUs": false
+        },
+        {
+          "type": "goal",
+          "minute": "90+3",
+          "scorer": "Георги Божилов",
+          "assist": "Танко Дяков",
+          "isPenalty": false,
+          "isOwnGoal": false,
+          "forUs": true
+        }
+      ]
+    },
+    {
+      "round": "27 кръг",
+      "date": "2010-04-25",
+      "opponent": "Локомотив (Сф)",
+      "isHome": false,
+      "score": "1:2",
+      "venue": "ст.\"Локомотив\"",
+      "city": "София",
+      "referee": "Ивайло Стоянов (Петрич)",
+      "attendance": 320,
+      "weather": null,
+      "events": [
+        {
+          "type": "goal",
+          "minute": "14",
+          "scorer": "Адемар",
+          "assist": null,
+          "isPenalty": false,
+          "isOwnGoal": false,
+          "forUs": true
+        },
+        {
+          "type": "goal",
+          "minute": "37",
+          "scorer": "Николай Домакинов АВТОГОЛ",
+          "assist": null,
+          "isPenalty": false,
+          "isOwnGoal": true,
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "45+1",
+          "player": "Даниел Димов",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "46",
+          "in": "Ели Маркеш",
+          "out": "Румен Николов",
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "48",
+          "player": "Христо Златински",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "49",
+          "player": "Марчо Дафчев",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "56",
+          "player": "Ели Маркеш",
+          "forUs": true
+        },
+        {
+          "type": "goal",
+          "minute": "58",
+          "scorer": "Адемар",
+          "assist": "Георги Божилов",
+          "isPenalty": false,
+          "isOwnGoal": false,
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "60",
+          "in": "Даниел Георгиев",
+          "out": "Станислав Стоянов",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "63",
+          "in": "Димо Атанасов",
+          "out": "Кристиян Добрев",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "64",
+          "player": "Даниел Георгиев",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "65",
+          "in": "Данаил Митев",
+          "out": "Виктор Шпишич",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "70",
+          "in": "Румен Горанов",
+          "out": "Марчо Дафчев",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "82",
+          "player": "Адемар",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "83",
+          "in": "Михаил Лазаров",
+          "out": "Адемар",
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "90+4",
+          "player": "Георги Марков",
+          "forUs": false
+        }
+      ]
+    },
+    {
+      "round": "28 кръг",
+      "date": "2010-05-02",
+      "opponent": "Левски (Сф)",
+      "isHome": true,
+      "score": "1:1",
+      "venue": "ст.\"Тича\"",
+      "city": "Варна",
+      "referee": "Николай Йорданов (Сф)",
+      "attendance": 5300,
+      "weather": null,
+      "events": [
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "13",
+          "player": "Седрик Бардон",
+          "forUs": false
+        },
+        {
+          "type": "goal",
+          "minute": "18",
+          "scorer": "Георги Божилов",
+          "assist": "Атанас Борносузов",
+          "isPenalty": false,
+          "isOwnGoal": false,
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "38",
+          "in": "Тодор Колев",
+          "out": "Георги Божилов",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "46",
+          "in": "Алекс",
+          "out": "Седрик Бардон",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "49",
+          "player": "Алекс",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "61",
+          "player": "Христо Йовов",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "66",
+          "in": "Румен Николов",
+          "out": "Йордан Юруков",
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "69",
+          "player": "Веселин Минев",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "69",
+          "player": "Танко Дяков",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "71",
+          "in": "Жоаозиньо",
+          "out": "Димитър Телкийски",
+          "forUs": false
+        },
+        {
+          "type": "goal",
+          "minute": "83",
+          "scorer": "Владимир Гаджев",
+          "assist": "Христо Йовов",
+          "isPenalty": false,
+          "isOwnGoal": false,
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "84",
+          "player": "Тодор Колев",
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "90+4",
+          "player": "Адемар",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "90+4",
+          "in": "Михаил Лазаров",
+          "out": "Адемар",
+          "forUs": true
+        }
+      ]
+    },
+    {
+      "round": "29 кръг",
+      "date": "2010-05-09",
+      "opponent": "ЦСКА",
+      "isHome": false,
+      "score": "2:2",
+      "venue": "ст.\"Българска армия\"",
+      "city": "София",
+      "referee": "Георги Йорданов (Гб)",
+      "attendance": 5600,
+      "weather": null,
+      "events": [
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "8",
+          "player": "Румен Трифонов",
+          "forUs": false
+        },
+        {
+          "type": "goal",
+          "minute": "9",
+          "scorer": "Йордан Юруков",
+          "assist": null,
+          "isPenalty": true,
+          "isOwnGoal": false,
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "20",
+          "player": "Даниел Димов",
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "20",
+          "player": "Йордан Юруков",
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "39",
+          "player": "Станислав Стоянов",
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "41",
+          "player": "Адемар",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "58",
+          "in": "Герасим Заков",
+          "out": "Станислав Стоянов",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "60",
+          "in": "Руи Мигел",
+          "out": "Спас Делев",
+          "forUs": false
+        },
+        {
+          "type": "goal",
+          "minute": "60",
+          "scorer": "Руи Мигел",
+          "assist": "Борис Галчев",
+          "isPenalty": false,
+          "isOwnGoal": false,
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "64",
+          "in": "Мамуту Кулибали",
+          "out": "Радослав Бачев",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "71",
+          "in": "Светослав Петров",
+          "out": "Тодор Янчев",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "72",
+          "in": "Румен Николов",
+          "out": "Йордан Юруков",
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "73",
+          "player": "Апостол Попов",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "79",
+          "in": "Флорентин Петре",
+          "out": "Дормушали Саидходжа",
+          "forUs": false
+        },
+        {
+          "type": "goal",
+          "minute": "80",
+          "scorer": "Александър Др.Александров АВТОГОЛ",
+          "assist": null,
+          "isPenalty": false,
+          "isOwnGoal": true,
+          "forUs": false
+        },
+        {
+          "type": "goal",
+          "minute": "83",
+          "scorer": "Адемар",
+          "assist": "Александър Ем.Александров",
+          "isPenalty": false,
+          "isOwnGoal": false,
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "84",
+          "player": "Ели Маркеш",
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "90+3",
+          "player": "Мамуту Кулибали",
+          "forUs": true
+        }
+      ]
+    },
+    {
+      "round": "30 кръг",
+      "date": "2010-05-16",
+      "opponent": "Монтана",
+      "isHome": true,
+      "score": "2:1",
+      "venue": "ст.\"Тича\"",
+      "city": "Варна",
+      "referee": "Богомил Маринов (Сф)",
+      "attendance": 570,
+      "weather": null,
+      "events": [
+        {
+          "type": "goal",
+          "minute": "40",
+          "scorer": "Димитър Илиев",
+          "assist": null,
+          "isPenalty": false,
+          "isOwnGoal": false,
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "46",
+          "in": "Герасим Заков",
+          "out": "Йордан Юруков",
+          "forUs": true
+        },
+        {
+          "type": "goal",
+          "minute": "49",
+          "scorer": "Герасим Заков",
+          "assist": "Ели Маркеш",
+          "isPenalty": false,
+          "isOwnGoal": false,
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "52",
+          "in": "Славчо Бойчев",
+          "out": "Йордан Тодоров",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "66",
+          "in": "Тодор Колев",
+          "out": "Даниел Георгиев",
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "71",
+          "player": "Антон Личков",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "72",
+          "player": "Александър Др.Александров",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "77",
+          "in": "Ахмед Хикмет",
+          "out": "Владимир Мичев",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "78",
+          "in": "Данийл Ратников",
+          "out": "Румен Николов",
+          "forUs": true
+        },
+        {
+          "type": "goal",
+          "minute": "78",
+          "scorer": "Данийл Ратников",
+          "assist": "Атанас Борносузов",
+          "isPenalty": false,
+          "isOwnGoal": false,
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "82",
+          "player": "Тодор Колев",
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "82",
+          "player": "Славчо Бойчев",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "84",
+          "in": "Стефан Харлов",
+          "out": "Даниел Гаджев",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "90",
+          "player": "Станислав Стоянов",
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "90+1",
+          "player": "Тихомир Трифонов",
+          "forUs": false
+        }
+      ]
+    }
+  ]
+}

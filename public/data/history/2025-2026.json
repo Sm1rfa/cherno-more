@@ -1,0 +1,4818 @@
+{
+  "season": "2025-2026",
+  "summary": {
+    "played": 36,
+    "wins": 14,
+    "draws": 12,
+    "losses": 10,
+    "goalsFor": 40,
+    "goalsAgainst": 34,
+    "cleanSheets": 18,
+    "coaches": {
+      "Илиан Илиев": 36
+    }
+  },
+  "topScorers": [
+    {
+      "name": "Георги Лазаров",
+      "number": 19,
+      "goals": 6
+    },
+    {
+      "name": "Николай Златев",
+      "number": 39,
+      "goals": 5
+    },
+    {
+      "name": "Асен Чандъров",
+      "number": 10,
+      "goals": 4
+    },
+    {
+      "name": "Селсо Сидней",
+      "number": 77,
+      "goals": 4
+    },
+    {
+      "name": "Асен Дончев",
+      "number": 8,
+      "goals": 3
+    },
+    {
+      "name": "Васил Панайотов",
+      "number": 71,
+      "goals": 3
+    },
+    {
+      "name": "Димитър Тонев",
+      "number": 23,
+      "goals": 1
+    },
+    {
+      "name": "Филипе Кардозо",
+      "number": 20,
+      "goals": 1
+    },
+    {
+      "name": "Жоао Педро",
+      "number": 11,
+      "goals": 1
+    },
+    {
+      "name": "Живко Атанасов",
+      "number": 3,
+      "goals": 1
+    },
+    {
+      "name": "Давид Телеш",
+      "number": 24,
+      "goals": 1
+    },
+    {
+      "name": "Берк Бейхан",
+      "number": 29,
+      "goals": 1
+    },
+    {
+      "name": "Густаво Франса",
+      "number": 9,
+      "goals": 1
+    },
+    {
+      "name": "Уеслен Жуниор",
+      "number": 99,
+      "goals": 1
+    }
+  ],
+  "topAssisters": [
+    {
+      "name": "Асен Чандъров",
+      "number": 10,
+      "assists": 1
+    },
+    {
+      "name": "Селсо Сидней",
+      "number": 77,
+      "assists": 1
+    },
+    {
+      "name": "Асен Дончев",
+      "number": 8,
+      "assists": 2
+    },
+    {
+      "name": "Васил Панайотов",
+      "number": 71,
+      "assists": 1
+    },
+    {
+      "name": "Димитър Тонев",
+      "number": 23,
+      "assists": 1
+    },
+    {
+      "name": "Филипе Кардозо",
+      "number": 20,
+      "assists": 1
+    },
+    {
+      "name": "Жоао Педро",
+      "number": 11,
+      "assists": 1
+    },
+    {
+      "name": "Даниел Мартин",
+      "number": 15,
+      "assists": 2
+    },
+    {
+      "name": "Мартин Милушев",
+      "number": 17,
+      "assists": 1
+    },
+    {
+      "name": "Ертан Томбак",
+      "number": 50,
+      "assists": 1
+    },
+    {
+      "name": "Цветомир Панов",
+      "number": 2,
+      "assists": 1
+    }
+  ],
+  "mostCarded": [
+    {
+      "name": "Ертан Томбак",
+      "number": 50,
+      "yellowCards": 2,
+      "redCards": 1
+    },
+    {
+      "name": "Даниел Мартин",
+      "number": 15,
+      "yellowCards": 7,
+      "redCards": 0
+    },
+    {
+      "name": "Асен Чандъров",
+      "number": 10,
+      "yellowCards": 6,
+      "redCards": 0
+    },
+    {
+      "name": "Асен Дончев",
+      "number": 8,
+      "yellowCards": 6,
+      "redCards": 0
+    },
+    {
+      "name": "Давид Телеш",
+      "number": 24,
+      "yellowCards": 6,
+      "redCards": 0
+    },
+    {
+      "name": "Влатко Дробаров",
+      "number": 28,
+      "yellowCards": 6,
+      "redCards": 0
+    },
+    {
+      "name": "Николай Златев",
+      "number": 39,
+      "yellowCards": 5,
+      "redCards": 0
+    },
+    {
+      "name": "Селсо Сидней",
+      "number": 77,
+      "yellowCards": 5,
+      "redCards": 0
+    },
+    {
+      "name": "Берк Бейхан",
+      "number": 29,
+      "yellowCards": 5,
+      "redCards": 0
+    },
+    {
+      "name": "Васил Панайотов",
+      "number": 71,
+      "yellowCards": 4,
+      "redCards": 0
+    },
+    {
+      "name": "Живко Атанасов",
+      "number": 3,
+      "yellowCards": 4,
+      "redCards": 0
+    },
+    {
+      "name": "Цветомир Панов",
+      "number": 2,
+      "yellowCards": 4,
+      "redCards": 0
+    },
+    {
+      "name": "Георги Лазаров",
+      "number": 19,
+      "yellowCards": 3,
+      "redCards": 0
+    },
+    {
+      "name": "Андреяс Калкан",
+      "number": 16,
+      "yellowCards": 3,
+      "redCards": 0
+    },
+    {
+      "name": "Филипе Кардозо",
+      "number": 20,
+      "yellowCards": 2,
+      "redCards": 0
+    },
+    {
+      "name": "Уеслен Жуниор",
+      "number": 99,
+      "yellowCards": 2,
+      "redCards": 0
+    },
+    {
+      "name": "Росен Стефанов",
+      "number": 4,
+      "yellowCards": 2,
+      "redCards": 0
+    },
+    {
+      "name": "Димитър Тонев",
+      "number": 23,
+      "yellowCards": 1,
+      "redCards": 0
+    },
+    {
+      "name": "Жоао Педро",
+      "number": 11,
+      "yellowCards": 1,
+      "redCards": 0
+    },
+    {
+      "name": "Жоао Бандаро",
+      "number": 26,
+      "yellowCards": 1,
+      "redCards": 0
+    },
+    {
+      "name": "Хорхе Падиля",
+      "number": 9,
+      "yellowCards": 1,
+      "redCards": 0
+    }
+  ],
+  "matches": [
+    {
+      "round": "1 кръг",
+      "date": "2025-07-18",
+      "opponent": "Локомотив Сф",
+      "isHome": false,
+      "score": "1:1",
+      "venue": "ст.\"Локомотив\"",
+      "city": "София",
+      "referee": "Валентин Железов (Бс)",
+      "attendance": null,
+      "weather": "23/20 С, ясно",
+      "events": [
+        {
+          "type": "goal",
+          "minute": "19",
+          "scorer": "Асен Чандъров",
+          "assist": "Асен Дончев",
+          "isPenalty": false,
+          "isOwnGoal": false,
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "23",
+          "player": "Николай Златев",
+          "forUs": true
+        },
+        {
+          "type": "goal",
+          "minute": "32",
+          "scorer": "Анте Аралица",
+          "assist": "Спас Делев",
+          "isPenalty": false,
+          "isOwnGoal": false,
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "пвр",
+          "in": "Димитър Тонев",
+          "out": "Николай Златев",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "пвр",
+          "in": "Давид Телеш",
+          "out": "Берк Бейхан",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "61",
+          "in": "Жоао Педро",
+          "out": "Мартин Милушев",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "63",
+          "in": "Луан Шавиер",
+          "out": "Митко Митков",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "72",
+          "in": "Георги Лазаров",
+          "out": "Асен Чандъров",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "77",
+          "in": "Симеон Славчев",
+          "out": "Анте Аралица",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "89",
+          "in": "Цветомир Панов",
+          "out": "Асен Дончев",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "90+2",
+          "in": "Христо Митев",
+          "out": "Ерол Дост",
+          "forUs": false
+        }
+      ]
+    },
+    {
+      "round": "2 кръг",
+      "date": "2025-07-27",
+      "opponent": "Ботев (Пд)",
+      "isHome": true,
+      "score": "2:1",
+      "venue": "ст.\"Тича\"",
+      "city": "Варна",
+      "referee": "Мариян Гребенчарски (Самоков)",
+      "attendance": null,
+      "weather": "27/26 С, слънчево/ясно",
+      "events": [
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "3",
+          "player": "Константинос Балоянис",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "10",
+          "player": "Николай Минков",
+          "forUs": false
+        },
+        {
+          "type": "goal",
+          "minute": "17",
+          "scorer": "Георги Лазаров",
+          "assist": null,
+          "isPenalty": false,
+          "isOwnGoal": false,
+          "forUs": true
+        },
+        {
+          "type": "goal",
+          "minute": "18",
+          "scorer": "Георги Лазаров",
+          "assist": null,
+          "isPenalty": false,
+          "isOwnGoal": false,
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "пвр",
+          "in": "Алекса Мараш",
+          "out": "Стивън Петков",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "пвр",
+          "in": "Никола Илиев",
+          "out": "Константинос Балоянис",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "56",
+          "in": "Еманюел Ейбрахам",
+          "out": "Енрике Жоку",
+          "forUs": false
+        },
+        {
+          "type": "goal",
+          "minute": "59",
+          "scorer": "Николай Минков",
+          "assist": "Алекса Мараш",
+          "isPenalty": false,
+          "isOwnGoal": false,
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "63",
+          "in": "Николай Златев",
+          "out": "Димитър Тонев",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "63",
+          "in": "Асен Чандъров",
+          "out": "Георги Лазаров",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "67",
+          "in": "Густаво Франса",
+          "out": "Селсо Сидней",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "68",
+          "in": "Таилсон Гонсалвес",
+          "out": "Ивелин Попов",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "85",
+          "player": "Николай Златев",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "85",
+          "in": "Самуил Цонов",
+          "out": "Емил Мартинов",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "88",
+          "in": "Цветомир Панов",
+          "out": "Уеслен Жуниор",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "89",
+          "in": "Росен Стефанов",
+          "out": "Давид Телеш",
+          "forUs": true
+        }
+      ]
+    },
+    {
+      "round": "3 кръг",
+      "date": "2025-08-04",
+      "opponent": "Берое",
+      "isHome": true,
+      "score": "4:0",
+      "venue": "ст.\"Тича\"",
+      "city": "Варна",
+      "referee": "Венцислав Митрев (Сф)",
+      "attendance": null,
+      "weather": "28/25 С, слънчево/ясно",
+      "events": [
+        {
+          "type": "goal",
+          "minute": "39",
+          "scorer": "Жоао Педро",
+          "assist": "Даниел Мартин",
+          "isPenalty": false,
+          "isOwnGoal": false,
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "49",
+          "player": "Живко Атанасов",
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "58",
+          "player": "Алекс Масого",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "61",
+          "player": "Влатко Дробаров",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "68",
+          "in": "Николай Златев",
+          "out": "Селсо Сидней",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "68",
+          "in": "Мартин Милушев",
+          "out": "Жоао Педро",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "74",
+          "in": "Асен Дончев",
+          "out": "Цветомир Панов",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "74",
+          "in": "Уеслен Жуниор",
+          "out": "Асен Чандъров",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "74",
+          "in": "Стефан Гаврилов",
+          "out": "Алберто Салидо",
+          "forUs": false
+        },
+        {
+          "type": "goal",
+          "minute": "78",
+          "scorer": "Николай Златев",
+          "assist": null,
+          "isPenalty": false,
+          "isOwnGoal": false,
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "80",
+          "in": "Ивайло Митев",
+          "out": "Джанлука Коя",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "86",
+          "in": "Филипе Кардозо",
+          "out": "Георги Лазаров",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "89",
+          "in": "Мирослав Георгиев",
+          "out": "Жоао Сержио",
+          "forUs": false
+        },
+        {
+          "type": "goal",
+          "minute": "89",
+          "scorer": "Николай Златев",
+          "assist": "Мартин Милушев",
+          "isPenalty": false,
+          "isOwnGoal": false,
+          "forUs": true
+        },
+        {
+          "type": "goal",
+          "minute": "90+6",
+          "scorer": "Николай Златев",
+          "assist": null,
+          "isPenalty": true,
+          "isOwnGoal": false,
+          "forUs": true
+        }
+      ]
+    },
+    {
+      "round": "4 кръг",
+      "date": "2025-08-09",
+      "opponent": "ЦСКА",
+      "isHome": false,
+      "score": "0:0",
+      "venue": "Национален стадион \"Васил Левски\"",
+      "city": "София",
+      "referee": "Радослав Гидженов (Пд)",
+      "attendance": null,
+      "weather": "32/30 С, слънчево/ясно",
+      "events": [
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "7",
+          "player": "Иван Турицов",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "33",
+          "player": "Давид Телеш",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "пвр",
+          "in": "Асен Дончев",
+          "out": "Николай Златев",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "61",
+          "in": "Георги Лазаров",
+          "out": "Асен Чандъров",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "61",
+          "in": "Густаво Франса",
+          "out": "Селсо Сидней",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "69",
+          "in": "Джейсън Локило",
+          "out": "Илиан Илиев",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "72",
+          "in": "Филипе Кардозо",
+          "out": "Жоао Педро",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "76",
+          "in": "Иван Тасев",
+          "out": "Олаус Скаршем",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "78",
+          "player": "Филипе Кардозо",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "82",
+          "in": "Георги Чорбаджийски",
+          "out": "Давид Пастор",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "88",
+          "player": "Георги Чорбаджийски",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "90+2",
+          "in": "Росен Стефанов",
+          "out": "Давид Телеш",
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "90+6",
+          "player": "Лумбард Делова",
+          "forUs": false
+        }
+      ]
+    },
+    {
+      "round": "5 кръг",
+      "date": "2025-08-16",
+      "opponent": "Спартак (Вн)",
+      "isHome": false,
+      "score": "1:3",
+      "venue": "ст.\"Спартак\"",
+      "city": "Варна",
+      "referee": "Красен Ив.Георгиев (Вн)",
+      "attendance": null,
+      "weather": "25/23 С, слънчево/ясно",
+      "events": [
+        {
+          "type": "goal",
+          "minute": "2",
+          "scorer": "Георги Лазаров",
+          "assist": "Жоао Педро",
+          "isPenalty": false,
+          "isOwnGoal": false,
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "5",
+          "player": "Дамян Йорданов",
+          "forUs": false
+        },
+        {
+          "type": "goal",
+          "minute": "12",
+          "scorer": "Шанде да Силва",
+          "assist": "Деян Лозев",
+          "isPenalty": false,
+          "isOwnGoal": false,
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "31",
+          "player": "Цветомир Панов",
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "31",
+          "player": "Ангел Грънчов",
+          "forUs": false
+        },
+        {
+          "type": "goal",
+          "minute": "39",
+          "scorer": "Николай Златев",
+          "assist": null,
+          "isPenalty": false,
+          "isOwnGoal": false,
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "пвр",
+          "in": "Колако Джонсън",
+          "out": "Даниел Халачев",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "пвр",
+          "in": "Росен Стефанов",
+          "out": "Живко Атанасов чмо /контузия/",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "60",
+          "in": "Асен Дончев",
+          "out": "Николай Златев",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "60",
+          "in": "Селсо Сидней",
+          "out": "Георги Лазаров",
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "65",
+          "player": "Даниел Иванов",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "71",
+          "player": "Жак Пехливанов",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "71",
+          "in": "Филипе Кардозо",
+          "out": "Асен Чандъров",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "72",
+          "in": "Ендуалу Луи Пахама",
+          "out": "Даниел Иванов",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "72",
+          "in": "Емил Янчев",
+          "out": "Цветослав Маринов",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "72",
+          "in": "Иван Алексиев",
+          "out": "Дамян Йорданов",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "82",
+          "player": "Влатко Дробаров",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "86",
+          "in": "Мартин Милушев",
+          "out": "Жоао Педро",
+          "forUs": true
+        },
+        {
+          "type": "goal",
+          "minute": "89",
+          "scorer": "Филипе Кардозо",
+          "assist": "Асен Дончев",
+          "isPenalty": false,
+          "isOwnGoal": false,
+          "forUs": true
+        }
+      ]
+    },
+    {
+      "round": "6 кръг",
+      "date": "2025-08-23",
+      "opponent": "Локомотив (Пд)",
+      "isHome": true,
+      "score": "1:1",
+      "venue": "ст.\"Тича\"",
+      "city": "Варна",
+      "referee": "Любослав Любомиров (Пк)",
+      "attendance": null,
+      "weather": "23/21 С, разкъсана облачност",
+      "events": [
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "15",
+          "player": "Мартин Русков",
+          "forUs": false
+        },
+        {
+          "type": "goal",
+          "minute": "29",
+          "scorer": "Георги Лазаров",
+          "assist": "Асен Дончев",
+          "isPenalty": false,
+          "isOwnGoal": false,
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "34",
+          "player": "Джани Тума",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "43",
+          "player": "Давид Телеш",
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "51",
+          "player": "Адриан Кова",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "55",
+          "player": "Георги Лазаров",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "57",
+          "in": "Николай Николаев",
+          "out": "Енцо Еспиноса лок /контузия/",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "59",
+          "in": "Селсо Сидней",
+          "out": "Асен Чандъров",
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "61",
+          "player": "Ивайло Иванов",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "63",
+          "in": "Хуан Переа",
+          "out": "Ивайло Иванов",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "64",
+          "in": "Петър Андреев",
+          "out": "Димитър Илиев",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "66",
+          "in": "Берк Бейхан",
+          "out": "Николай Златев",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "71",
+          "in": "Мартин Атанасов",
+          "out": "Мартин Русков лок /контузия/",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "71",
+          "in": "Ивайло Марков",
+          "out": "Джани Тума",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "84",
+          "in": "Мартин Милушев",
+          "out": "Жоао Педро",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "84",
+          "in": "Димитър Тонев",
+          "out": "Георги Лазаров",
+          "forUs": true
+        },
+        {
+          "type": "goal",
+          "minute": "90+2",
+          "scorer": "Адриан Кова",
+          "assist": null,
+          "isPenalty": false,
+          "isOwnGoal": false,
+          "forUs": false
+        }
+      ]
+    },
+    {
+      "round": "7 кръг",
+      "date": "2025-08-29",
+      "opponent": "Ботев (Вр)",
+      "isHome": false,
+      "score": "1:0",
+      "venue": "ст.\"Христо Ботев\"",
+      "city": "Враца",
+      "referee": "Георги Кабаков (Пд)",
+      "attendance": null,
+      "weather": "29/25 С, ясно",
+      "events": [
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "45+1",
+          "player": "Даниел Генов",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "45+2",
+          "player": "Жоао Педро",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "пвр",
+          "in": "Аймен Суда",
+          "out": "Мартин Петков",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "пвр",
+          "in": "Селсо Сидней",
+          "out": "Густаво Франса",
+          "forUs": true
+        },
+        {
+          "type": "goal",
+          "minute": "49",
+          "scorer": "Владислав Найденов",
+          "assist": null,
+          "isPenalty": false,
+          "isOwnGoal": false,
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "60",
+          "player": "Живко Атанасов",
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "64",
+          "player": "Влатко Дробаров",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "67",
+          "in": "Николай Златев",
+          "out": "Жоао Педро",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "68",
+          "in": "Уеслен Жуниор",
+          "out": "Филипе Кардозо",
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "69",
+          "player": "Мартин Ачков",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "76",
+          "player": "Владислав Найденов",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "77",
+          "in": "Антоан Стоянов",
+          "out": "Хосе Гайегос",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "77",
+          "in": "Мартин Дичев",
+          "out": "Даниел Генов",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "78",
+          "in": "Асен Чандъров",
+          "out": "Васил Панайотов",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "79",
+          "in": "Мартин Милушев",
+          "out": "Давид Телеш",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "85",
+          "in": "Божидар Пенчев",
+          "out": "Владислав Найденов",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "90",
+          "in": "Радослав Цонев",
+          "out": "Мартин Смоленски",
+          "forUs": false
+        }
+      ]
+    },
+    {
+      "round": "8 кръг",
+      "date": "2025-09-15",
+      "opponent": "Добруджа",
+      "isHome": true,
+      "score": "2:0",
+      "venue": "ст.\"Тича\"",
+      "city": "Варна",
+      "referee": "Димитър Д.Димитров (Сф)",
+      "attendance": null,
+      "weather": "20/18 С, разкъсана облачност",
+      "events": [
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "14",
+          "player": "Малик Фол Ендур",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "red",
+          "minute": "41",
+          "player": "Антон Иванов доб",
+          "forUs": false
+        },
+        {
+          "type": "goal",
+          "minute": "44",
+          "scorer": "Селсо Сидней",
+          "assist": "тъч",
+          "isPenalty": false,
+          "isOwnGoal": false,
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "пвр",
+          "in": "Богдан Костов",
+          "out": "Милчо Ангелов",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "52",
+          "player": "Георги Лазаров",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "60",
+          "in": "Айкут Рамадан",
+          "out": "Димитър Пиргов",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "68",
+          "in": "Филипе Кардозо",
+          "out": "Георги Лазаров",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "68",
+          "in": "Асен Чандъров",
+          "out": "Давид Телеш",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "72",
+          "in": "Аарон Апия",
+          "out": "Ивайло Михайлов",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "72",
+          "in": "Алмин Куртович",
+          "out": "Малик Фол Ендур",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "79",
+          "in": "Уеслен Жуниор",
+          "out": "Жоао Педро",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "79",
+          "in": "Густаво Франса",
+          "out": "Селсо Сидней",
+          "forUs": true
+        },
+        {
+          "type": "goal",
+          "minute": "90+3",
+          "scorer": "Асен Чандъров",
+          "assist": null,
+          "isPenalty": true,
+          "isOwnGoal": false,
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "90+4",
+          "in": "Даниел Мартин",
+          "out": "Николай Златев",
+          "forUs": true
+        }
+      ]
+    },
+    {
+      "round": "9 кръг",
+      "date": "2025-09-22",
+      "opponent": "Арда",
+      "isHome": false,
+      "score": "0:1",
+      "venue": "ст.\"Берое\"",
+      "city": "Стара Загора",
+      "referee": "Васил Минев (Сф)",
+      "attendance": null,
+      "weather": "27/23 С, слънчево/ясно",
+      "events": [
+        {
+          "type": "card",
+          "card": "red",
+          "minute": "19",
+          "player": "Дейвид Идолу арда",
+          "forUs": false
+        },
+        {
+          "type": "goal",
+          "minute": "28",
+          "scorer": "Николай Златев",
+          "assist": "Селсо Сидней",
+          "isPenalty": false,
+          "isOwnGoal": false,
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "32",
+          "in": "Серкан Юсеин",
+          "out": "Антонио Вутов",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "52",
+          "player": "Селсо Сидней",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "61",
+          "in": "Филипе Кардозо",
+          "out": "Жоао Педро",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "61",
+          "in": "Георги Лазаров",
+          "out": "Давид Телеш",
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "64",
+          "player": "Бирсент Карагарен",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "65",
+          "in": "Ивелин Попов",
+          "out": "Бирсент Карагарен",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "65",
+          "in": "Андре Шиняшики",
+          "out": "Атанас Кабов",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "73",
+          "player": "Андре Шиняшики",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "79",
+          "in": "Мартин Милушев",
+          "out": "Николай Златев",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "81",
+          "in": "Ишнаба Мане",
+          "out": "Светослав Ковачев",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "90+1",
+          "in": "Густаво Франса",
+          "out": "Селсо Сидней",
+          "forUs": true
+        }
+      ]
+    },
+    {
+      "round": "10 кръг",
+      "date": "2025-09-27",
+      "opponent": "Септември (Сф)",
+      "isHome": true,
+      "score": "1:1",
+      "venue": "ст.\"Тича\"",
+      "city": "Варна",
+      "referee": "Георги Гинчев (ВТ)",
+      "attendance": null,
+      "weather": "17/15 С, предимно облачно/разкъсана облачност",
+      "events": [
+        {
+          "type": "goal",
+          "minute": "24",
+          "scorer": "Бертран Фурие",
+          "assist": null,
+          "isPenalty": false,
+          "isOwnGoal": false,
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "37",
+          "player": "Робин Схаутен",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "41",
+          "player": "Моисес Пара",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "пвр",
+          "in": "Даниел Мартин",
+          "out": "Цветомир Панов",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "пвр",
+          "in": "Георги Лазаров",
+          "out": "Николай Златев",
+          "forUs": true
+        },
+        {
+          "type": "goal",
+          "minute": "58",
+          "scorer": "Живко Атанасов",
+          "assist": "ъглов",
+          "isPenalty": false,
+          "isOwnGoal": false,
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "67",
+          "in": "Фаиз Матуар",
+          "out": "Никола Фонтен",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "67",
+          "in": "Божидар Томовски",
+          "out": "Робин Схаутен",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "70",
+          "player": "Васил Панайотов",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "73",
+          "in": "Филипе Кардозо",
+          "out": "Димитър Тонев",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "77",
+          "in": "Стоян Стоичков",
+          "out": "Клери Сербер",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "77",
+          "in": "Валънтайн Озорнуафор",
+          "out": "Моисес Пара",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "80",
+          "in": "Давид Телеш",
+          "out": "Асен Чандъров",
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "88",
+          "player": "Бертран Фурие",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "88",
+          "in": "Александър Джамов",
+          "out": "Бертран Фурие",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "90+2",
+          "in": "Густаво Франса",
+          "out": "Жоао Педро",
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "90+3",
+          "player": "Янко Георгиев",
+          "forUs": false
+        }
+      ]
+    },
+    {
+      "round": "11 кръг",
+      "date": "2025-10-04",
+      "opponent": "Монтана",
+      "isHome": false,
+      "score": "1:3",
+      "venue": "ст.\"Огоста\"",
+      "city": "Монтана",
+      "referee": "Георги Давидов (ВT)",
+      "attendance": null,
+      "weather": "11/9 С, предимно облачно",
+      "events": [
+        {
+          "type": "goal",
+          "minute": "8",
+          "scorer": "Димитър Тонев",
+          "assist": null,
+          "isPenalty": false,
+          "isOwnGoal": false,
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "12",
+          "player": "Асен Дончев",
+          "forUs": true
+        },
+        {
+          "type": "goal",
+          "minute": "34",
+          "scorer": "Селсо Сидней",
+          "assist": "Димитър Тонев",
+          "isPenalty": false,
+          "isOwnGoal": false,
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "пвр",
+          "in": "Филип Еджике",
+          "out": "Илиас Илиадис",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "пвр",
+          "in": "Йоел Берхане",
+          "out": "Александър Тодоров",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "54",
+          "player": "Йоел Берхане",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "55",
+          "player": "Димитър Тонев",
+          "forUs": true
+        },
+        {
+          "type": "goal",
+          "minute": "57",
+          "scorer": "Иван Коконов",
+          "assist": null,
+          "isPenalty": false,
+          "isOwnGoal": false,
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "58",
+          "player": "Калоян Стрински",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "67",
+          "in": "Филипе Кардозо",
+          "out": "Димитър Тонев",
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "68",
+          "player": "Мартин Михайлов",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "73",
+          "in": "Ибрахим Мухамад",
+          "out": "Калоян Стрински",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "74",
+          "player": "Селсо Сидней",
+          "forUs": true
+        },
+        {
+          "type": "goal",
+          "minute": "79",
+          "scorer": "Георги Лазаров",
+          "assist": "Филипе Кардозо",
+          "isPenalty": false,
+          "isOwnGoal": false,
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "81",
+          "in": "Мартин Милушев",
+          "out": "Асен Чандъров",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "81",
+          "in": "Николай Златев",
+          "out": "Селсо Сидней",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "83",
+          "in": "Петър Атанасов",
+          "out": "Борис Димитров",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "83",
+          "in": "Димитър Буров",
+          "out": "Антон Тунгаров",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "89",
+          "in": "Росен Стефанов",
+          "out": "Георги Лазаров",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "89",
+          "in": "Андреяс Калкан",
+          "out": "Жоао Педро",
+          "forUs": true
+        }
+      ]
+    },
+    {
+      "round": "12 кръг",
+      "date": "2025-10-19",
+      "opponent": "Левски (Сф)",
+      "isHome": true,
+      "score": "1:3",
+      "venue": "ст.\"Тича\"",
+      "city": "Варна",
+      "referee": "Васил Минев (Сф)",
+      "attendance": null,
+      "weather": "14/11 С, слънчево/разкъсана облачност",
+      "events": [
+        {
+          "type": "goal",
+          "minute": "22",
+          "scorer": "Селсо Сидней",
+          "assist": null,
+          "isPenalty": false,
+          "isOwnGoal": false,
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "пвр",
+          "in": "Борислав Рупанов",
+          "out": "Алдаир Невес",
+          "forUs": false
+        },
+        {
+          "type": "goal",
+          "minute": "55",
+          "scorer": "Мустафа Сангаре",
+          "assist": "ъглов",
+          "isPenalty": false,
+          "isOwnGoal": false,
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "59",
+          "player": "Асен Дончев",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "62",
+          "in": "Росен Стефанов",
+          "out": "Жоао Педро",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "62",
+          "in": "Евертон Бала",
+          "out": "Марин Петков",
+          "forUs": false
+        },
+        {
+          "type": "goal",
+          "minute": "65",
+          "scorer": "Мустафа Сангаре",
+          "assist": "Борислав Рупанов",
+          "isPenalty": false,
+          "isOwnGoal": false,
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "69",
+          "in": "Филипе Кардозо",
+          "out": "Васил Панайотов",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "69",
+          "in": "Даниел Мартин",
+          "out": "Цветомир Панов",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "69",
+          "in": "Николай Златев",
+          "out": "Селсо Сидней",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "79",
+          "in": "Георги Костадинов",
+          "out": "Мустафа Сангаре",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "79",
+          "in": "Рилдо Фильо",
+          "out": "Мазир Сула",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "81",
+          "in": "Андреяс Калкан",
+          "out": "Влатко Дробаров",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "85",
+          "in": "Оливие Камдем",
+          "out": "Радослав Кирилов",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "85",
+          "player": "Светослав",
+          "forUs": false
+        },
+        {
+          "type": "goal",
+          "minute": "90",
+          "scorer": "Борислав Рупанов",
+          "assist": "ъглов",
+          "isPenalty": false,
+          "isOwnGoal": false,
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "90+6",
+          "player": "Андреяс Калкан",
+          "forUs": true
+        }
+      ]
+    },
+    {
+      "round": "13 кръг",
+      "date": "2025-10-25",
+      "opponent": "Славия",
+      "isHome": false,
+      "score": "0:0",
+      "venue": "ст.\"Александър Шаламанов\"",
+      "city": "София",
+      "referee": "Кристиян Колев (Пд)",
+      "attendance": null,
+      "weather": "16/17 С, разкъсана облачност",
+      "events": [
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "31",
+          "player": "Кристиян Балов",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "64",
+          "in": "Жоао Педро",
+          "out": "Николай Златев",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "69",
+          "in": "Роберто Райчев",
+          "out": "Кристиян Балов",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "70",
+          "player": "Муамед Досо",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "76",
+          "in": "Андреяс Калкан",
+          "out": "Давид Телеш чмо /контузия/",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "77",
+          "in": "Владимир Медвед",
+          "out": "Иван Минчев",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "77",
+          "in": "Илиян Стефанов",
+          "out": "Янис Гермуш",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "86",
+          "in": "Марко Милетич",
+          "out": "Емил Стоев",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "87",
+          "in": "Густаво Франса",
+          "out": "Георги Лазаров",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "87",
+          "in": "Мартин Милушев",
+          "out": "Васил Панайотов",
+          "forUs": true
+        }
+      ]
+    },
+    {
+      "round": "14 кръг",
+      "date": "2025-11-02",
+      "opponent": "Лудогорец",
+      "isHome": true,
+      "score": "0:0",
+      "venue": "ст.\"Тича\"",
+      "city": "Варна",
+      "referee": "Венцислав Митрев (Сф)",
+      "attendance": null,
+      "weather": "15/12 С, ясно",
+      "events": [
+        {
+          "type": "substitution",
+          "minute": "40",
+          "in": "Емерсон Родригес",
+          "out": "Бърнард Текпетей луд /контузия/",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "48",
+          "player": "Васил Панайотов",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "61",
+          "in": "Петър Станич",
+          "out": "Педро Нареси",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "66",
+          "in": "Георги Лазаров",
+          "out": "Жоао Педро",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "66",
+          "in": "Филипе Кардозо",
+          "out": "Давид Телеш",
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "75",
+          "player": "Даниел Мартин",
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "78",
+          "player": "Филипе Кардозо",
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "78",
+          "player": "Емерсон Родригес",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "80",
+          "in": "Иван Йорданов",
+          "out": "Антон Недялков",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "80",
+          "in": "Матеус Машадо",
+          "out": "Ив Ерик Билe",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "83",
+          "in": "Уеслен Жуниор",
+          "out": "Николай Златев",
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "85",
+          "player": "Динис Алмейда",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "90+4",
+          "in": "Росен Стефанов",
+          "out": "Асен Чандъров",
+          "forUs": true
+        }
+      ]
+    },
+    {
+      "round": "15 кръг",
+      "date": "2025-11-09",
+      "opponent": "ФК ЦСКА 1948",
+      "isHome": false,
+      "score": "0:1",
+      "venue": "ст.\"Витоша\"",
+      "city": "Бистрица",
+      "referee": "Димитър Д.Димитров (Сф)",
+      "attendance": null,
+      "weather": "13/12 С, разкъсана облачност",
+      "events": [
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "21",
+          "player": "Асен Чандъров",
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "59",
+          "player": "Николай Златев",
+          "forUs": true
+        },
+        {
+          "type": "goal",
+          "minute": "61",
+          "scorer": "Егор Пархоменко АВТОГОЛ",
+          "assist": null,
+          "isPenalty": false,
+          "isOwnGoal": true,
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "62",
+          "in": "Георги Русев",
+          "out": "Елиас Франко",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "63",
+          "player": "Огнен Гашевич",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "66",
+          "in": "Хуанми Карион",
+          "out": "Огнен Гашевич",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "66",
+          "in": "Зе Витор",
+          "out": "Атанас Илиев",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "66",
+          "in": "Вагниньо Коста",
+          "out": "Борислав Цонев",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "69",
+          "in": "Жоао Педро",
+          "out": "Уеслен Жуниор",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "69",
+          "in": "Густаво Франса",
+          "out": "Георги Лазаров",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "80",
+          "in": "Давид Телеш",
+          "out": "Николай Златев",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "84",
+          "in": "Марто Бойчев",
+          "out": "Фредерик Масиел",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "85",
+          "player": "Даниел Мартин",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "90+2",
+          "in": "Росен Стефанов",
+          "out": "Васил Панайотов",
+          "forUs": true
+        }
+      ]
+    },
+    {
+      "round": "16 кръг",
+      "date": "2025-11-22",
+      "opponent": "Локомотив Сф",
+      "isHome": true,
+      "score": "0:1",
+      "venue": "ст.\"Тича\"",
+      "city": "Варна",
+      "referee": "Георги Гинчев (ВТ)",
+      "attendance": null,
+      "weather": "19/17 С, разкъсана облачност",
+      "events": [
+        {
+          "type": "goal",
+          "minute": "19",
+          "scorer": "Раян Бидунга",
+          "assist": "Спас Делев",
+          "isPenalty": false,
+          "isOwnGoal": false,
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "42",
+          "player": "Божидар Кацаров",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "45+1",
+          "in": "Джуниет Али",
+          "out": "Патрик-Габриел Галчев лок /контузия/",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "45+5",
+          "player": "Раян Бидунга",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "пвр",
+          "in": "Ерол Дост",
+          "out": "Луан Шавиер",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "58",
+          "player": "Ангел Лясков",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "59",
+          "in": "Филипе Кардозо",
+          "out": "Густаво Франса",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "59",
+          "in": "Андреяс Калкан",
+          "out": "Николай Златев",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "61",
+          "in": "Георги Минчев",
+          "out": "Спас Делев",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "61",
+          "in": "Диего Рапозо",
+          "out": "Кауе Карузо",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "64",
+          "in": "Мартин Милушев",
+          "out": "Жоао Педро",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "74",
+          "in": "Георги Лазаров",
+          "out": "Васил Панайотов",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "75",
+          "in": "Октавио Мерло",
+          "out": "Красимир Станоев",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "86",
+          "player": "Реян Даскалов",
+          "forUs": false
+        }
+      ]
+    },
+    {
+      "round": "17 кръг",
+      "date": "2025-11-29",
+      "opponent": "Ботев (Пд)",
+      "isHome": false,
+      "score": "2:1",
+      "venue": "ст.\"Христо Ботев\"",
+      "city": "Пловдив",
+      "referee": "Мариян Гребенчарски (Самоков)",
+      "attendance": 3189,
+      "weather": "10/9 С, ръмеж/дъжд",
+      "events": [
+        {
+          "type": "goal",
+          "minute": "10",
+          "scorer": "Франклин Маскоте",
+          "assist": "Никола Илиев",
+          "isPenalty": false,
+          "isOwnGoal": false,
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "42",
+          "player": "Еманюел Ейбрахам",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "58",
+          "in": "Николай Златев",
+          "out": "Селсо Сидней",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "68",
+          "in": "Димитър Митков",
+          "out": "Франклин Маскоте",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "68",
+          "in": "Лукас Араужо",
+          "out": "Константинос Балоянис",
+          "forUs": false
+        },
+        {
+          "type": "goal",
+          "minute": "69",
+          "scorer": "Лукас Араужо",
+          "assist": "Армстронг Око-Флекс",
+          "isPenalty": false,
+          "isOwnGoal": false,
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "75",
+          "player": "Николай Златев",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "76",
+          "in": "Васил Панайотов",
+          "out": "Берк Бейхан",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "76",
+          "in": "Андреяс Калкан",
+          "out": "Уеслен Жуниор",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "77",
+          "in": "Густаво Франса",
+          "out": "Георги Лазаров",
+          "forUs": true
+        },
+        {
+          "type": "goal",
+          "minute": "77",
+          "scorer": "Васил Панайотов",
+          "assist": "Асен Чандъров",
+          "isPenalty": false,
+          "isOwnGoal": false,
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "84",
+          "in": "Мартин Милушев",
+          "out": "Давид Телеш",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "84",
+          "in": "Самюел Калу",
+          "out": "Тодор Неделев",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "90",
+          "in": "Габриел Нога",
+          "out": "Никола Илиев",
+          "forUs": false
+        }
+      ]
+    },
+    {
+      "round": "18 кръг",
+      "date": "2025-12-03",
+      "opponent": "Берое",
+      "isHome": false,
+      "score": "1:2",
+      "venue": "ст.\"Берое\"",
+      "city": "Стара Загора",
+      "referee": "Георги Кабаков (Пд)",
+      "attendance": null,
+      "weather": "11/10 С, облачно",
+      "events": [
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "5",
+          "player": "Даниел Мартин",
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "24",
+          "player": "Алекс Масого",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "30",
+          "in": "Жоао Бандаро",
+          "out": "Даниел Мартин чмо /контузия/",
+          "forUs": false
+        },
+        {
+          "type": "goal",
+          "minute": "45+2",
+          "scorer": "Тижан Сона",
+          "assist": "Алберто Салидо",
+          "isPenalty": false,
+          "isOwnGoal": false,
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "45+4",
+          "player": "Факундо Аларкон",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "45+4",
+          "player": "Влатко Дробаров",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "пвр",
+          "in": "Жоао Педро",
+          "out": "Андреяс Калкан",
+          "forUs": true
+        },
+        {
+          "type": "goal",
+          "minute": "53",
+          "scorer": "Георги Лазаров",
+          "assist": "ъглов",
+          "isPenalty": false,
+          "isOwnGoal": false,
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "64",
+          "in": "Давид Телеш",
+          "out": "Берк Бейхан",
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "67",
+          "player": "Уеслен Жуниор",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "69",
+          "in": "Йесид Валбуена",
+          "out": "Факундо Аларкон",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "71",
+          "in": "Ертан Томбак",
+          "out": "Влатко Дробаров",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "71",
+          "in": "Густаво Франса",
+          "out": "Уеслен Жуниор",
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "77",
+          "player": "Давид Телеш",
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "79",
+          "player": "Жоао Бандаро",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "87",
+          "in": "Кайо Лопес",
+          "out": "Алекс Масого",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "87",
+          "in": "Нене Бодега",
+          "out": "Аугусто Дабо",
+          "forUs": false
+        },
+        {
+          "type": "goal",
+          "minute": "90+3",
+          "scorer": "Густаво Франса",
+          "assist": null,
+          "isPenalty": false,
+          "isOwnGoal": false,
+          "forUs": true
+        }
+      ]
+    },
+    {
+      "round": "19 кръг",
+      "date": "2025-12-06",
+      "opponent": "ЦСКА",
+      "isHome": true,
+      "score": "2:0",
+      "venue": "ст.\"Тича\"",
+      "city": "Варна",
+      "referee": "Любослав Любомиров (Пк)",
+      "attendance": null,
+      "weather": "9/7 С, облачно",
+      "events": [
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "38",
+          "player": "Джемс Етоо",
+          "forUs": false
+        },
+        {
+          "type": "goal",
+          "minute": "40",
+          "scorer": "Уеслен Жуниор",
+          "assist": null,
+          "isPenalty": false,
+          "isOwnGoal": false,
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "пвр",
+          "in": "Олаус Скаршем",
+          "out": "Петко Панайотов",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "55",
+          "player": "Уеслен Жуниор",
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "62",
+          "player": "Бруно Жордао",
+          "forUs": false
+        },
+        {
+          "type": "goal",
+          "minute": "65",
+          "scorer": "Георги Лазаров",
+          "assist": "Васил Панайотов",
+          "isPenalty": false,
+          "isOwnGoal": false,
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "67",
+          "player": "Олаус Скаршем",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "70",
+          "in": "Теодор Иванов",
+          "out": "Джемс Етоо",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "70",
+          "in": "Густаво Франса",
+          "out": "Уеслен Жуниор",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "76",
+          "in": "Давид Телеш",
+          "out": "Берк Бейхан",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "77",
+          "in": "Иван Турицов",
+          "out": "Анджело Мартино",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "81",
+          "player": "Асен Дончев",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "90+3",
+          "in": "Ертан Томбак",
+          "out": "Васил Панайотов",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "90+3",
+          "in": "Николай Костадинов",
+          "out": "Асен Чандъров",
+          "forUs": true
+        }
+      ]
+    },
+    {
+      "round": "20 кръг",
+      "date": "2026-02-07",
+      "opponent": "Спартак (Вн)",
+      "isHome": true,
+      "score": "0:0",
+      "venue": "ст.\"Тича\"",
+      "city": "Варна",
+      "referee": "Радослав Гидженов (Пд)",
+      "attendance": null,
+      "weather": "6/8 С, облачно",
+      "events": [
+        {
+          "type": "card",
+          "card": "red",
+          "minute": "18",
+          "player": "Мартин Георгиев спк",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "20",
+          "player": "Даниел Мартин",
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "27",
+          "player": "Ангел Грънчов",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "29",
+          "player": "Берк Бейхан",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "32",
+          "in": "Николай Златев",
+          "out": "Васил Панайотов чмо /контузия/",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "36",
+          "player": "Димо Кръстев",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "69",
+          "in": "Георги Лазаров",
+          "out": "Асен Дончев",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "73",
+          "in": "Емил Янчев",
+          "out": "Димо Кръстев спк /контузия/",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "75",
+          "player": "Шанде да Силва",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "81",
+          "player": "Ертан Томбак",
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "81",
+          "player": "Максим Ковальов",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "81",
+          "in": "Давид Телеш",
+          "out": "Берк Бейхан",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "82",
+          "in": "Джон Еманюел",
+          "out": "Цветелин Чунчуков",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "90+4",
+          "in": "Даниел Иванов",
+          "out": "Дамян Йорданов",
+          "forUs": false
+        }
+      ]
+    },
+    {
+      "round": "21 кръг",
+      "date": "2026-02-15",
+      "opponent": "Локомотив (Пд)",
+      "isHome": false,
+      "score": "1:1",
+      "venue": "ст.\"Локомотив\"",
+      "city": "Пловдив",
+      "referee": "Димитър Д.Димитров (Сф)",
+      "attendance": null,
+      "weather": "11/11 С, дъжд",
+      "events": [
+        {
+          "type": "card",
+          "card": "red",
+          "minute": "24",
+          "player": "Севи Идриз лок",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "57",
+          "in": "Хорхе Падиля",
+          "out": "Давид Телеш",
+          "forUs": true
+        },
+        {
+          "type": "goal",
+          "minute": "61",
+          "scorer": "Георги Лазаров",
+          "assist": "ъглов",
+          "isPenalty": false,
+          "isOwnGoal": false,
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "61",
+          "player": "Селсо Сидней",
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "64",
+          "player": "Асен Чандъров",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "73",
+          "in": "Йоел Зварц",
+          "out": "Запро Динев",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "74",
+          "in": "Миха Търдан",
+          "out": "Жулиан Лами",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "75",
+          "player": "Берк Бейхан",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "81",
+          "in": "Николай Златев",
+          "out": "Селсо Сидней",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "85",
+          "in": "Андрей Киндриш",
+          "out": "Ефе Али",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "85",
+          "in": "Аксел Велев",
+          "out": "Ивайло Иванов",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "85",
+          "in": "Джани Тума",
+          "out": "Тодор Павлов",
+          "forUs": false
+        },
+        {
+          "type": "goal",
+          "minute": "90",
+          "scorer": "Йоел Зварц",
+          "assist": "ъглов",
+          "isPenalty": false,
+          "isOwnGoal": false,
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "90+2",
+          "in": "Цветомир Панов",
+          "out": "Асен Дончев",
+          "forUs": true
+        }
+      ]
+    },
+    {
+      "round": "22 кръг",
+      "date": "2026-02-20",
+      "opponent": "Ботев (Вр)",
+      "isHome": true,
+      "score": "0:0",
+      "venue": "ст.\"Тича\"",
+      "city": "Варна",
+      "referee": "Валентин Железов (Бс)",
+      "attendance": null,
+      "weather": "8/6 С, облачно/дъжд",
+      "events": [
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "27",
+          "player": "Асен Чандъров чмо",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "35",
+          "player": "Кристиян Малинов",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "36",
+          "player": "Давид Телеш",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "пвр",
+          "in": "Николай Златев",
+          "out": "Давид Телеш",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "пвр",
+          "in": "Васил Панайотов",
+          "out": "Берк Бейхан",
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "48",
+          "player": "Владислав Найденов",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "65",
+          "player": "Даниел Генов",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "69",
+          "in": "Мартин Петков",
+          "out": "Даниел Генов",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "73",
+          "in": "Хорхе Падиля",
+          "out": "Асен Дончев",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "77",
+          "in": "Мичи Ентело",
+          "out": "Мартин Смоленски",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "77",
+          "in": "Мартин Стойчев",
+          "out": "Владислав Найденов",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "85",
+          "in": "Касим Аджи",
+          "out": "Хосе Гайегос",
+          "forUs": false
+        }
+      ]
+    },
+    {
+      "round": "23 кръг",
+      "date": "2026-02-28",
+      "opponent": "Добруджа",
+      "isHome": false,
+      "score": "2:1",
+      "venue": "ст.\"Дружба\"",
+      "city": "Добрич",
+      "referee": "Георги Кабаков (Пд)",
+      "attendance": null,
+      "weather": "6/4 С, разкъсана облачност",
+      "events": [
+        {
+          "type": "goal",
+          "minute": "3",
+          "scorer": "Ивайло Михайлов АВТОГОЛ",
+          "assist": null,
+          "isPenalty": false,
+          "isOwnGoal": true,
+          "forUs": true
+        },
+        {
+          "type": "goal",
+          "minute": "18",
+          "scorer": "Монтасар Трики",
+          "assist": "ъглов",
+          "isPenalty": false,
+          "isOwnGoal": false,
+          "forUs": false
+        },
+        {
+          "type": "goal",
+          "minute": "32",
+          "scorer": "Ивайло Михайлов",
+          "assist": "Валду Те",
+          "isPenalty": false,
+          "isOwnGoal": false,
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "35",
+          "player": "Богдан Костов",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "35",
+          "player": "Цветомир Панов",
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "42",
+          "player": "Росен Стефанов",
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "45+1",
+          "player": "Ди Матео Ловрич",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "пвр",
+          "in": "Георги Лазаров",
+          "out": "Асен Чандъров",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "пвр",
+          "in": "Даниел Мартин",
+          "out": "Цветомир Панов",
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "red",
+          "minute": "53",
+          "player": "Ертан Томбак",
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "53",
+          "player": "Венцислав Керчев",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "56",
+          "in": "Асен Дончев",
+          "out": "Хорхе Падиля",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "63",
+          "in": "Бубакар Ан",
+          "out": "Ангел Ангелов",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "63",
+          "in": "Диого Мадалено",
+          "out": "Ди Матео Ловрич",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "66",
+          "player": "Селсо Сидней",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "72",
+          "in": "Димитър Тонев",
+          "out": "Берк Бейхан",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "73",
+          "in": "Андреяс Калкан",
+          "out": "Николай Златев",
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "76",
+          "player": "Андреяс Калкан",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "85",
+          "in": "Георги Трифонов",
+          "out": "Валду Те",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "85",
+          "in": "Айкут Рамадан",
+          "out": "Томаш Силва",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "90",
+          "player": "Бубакар Ан",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "90+2",
+          "in": "Малик Фол Ендур",
+          "out": "Монтасар Трики",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "90+4",
+          "player": "Айкут Рамадан",
+          "forUs": false
+        }
+      ]
+    },
+    {
+      "round": "24 кръг",
+      "date": "2026-03-04",
+      "opponent": "Арда",
+      "isHome": true,
+      "score": "0:0",
+      "venue": "ст.\"Тича\"",
+      "city": "Варна",
+      "referee": "Кристиян Колев (Пд)",
+      "attendance": null,
+      "weather": "11/8 С, слънчево/ясно",
+      "events": [
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "17",
+          "player": "Николай Златев",
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "40",
+          "player": "Димитър Велковски",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "59",
+          "in": "Селсо Сидней",
+          "out": "Николай Златев",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "61",
+          "in": "Светослав Ковачев",
+          "out": "Атанас Кабов",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "70",
+          "in": "Антонио Вутов",
+          "out": "Серкан Юсеин",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "70",
+          "in": "Патрик Луан",
+          "out": "Уилсон Самаке",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "70",
+          "in": "Хорхе Падиля",
+          "out": "Димитър Тонев",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "70",
+          "in": "Андреяс Калкан",
+          "out": "Асен Дончев",
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "72",
+          "player": "Феликс Ебоа Ебоа",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "74",
+          "player": "Берк Бейхан",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "86",
+          "in": "Асен Чандъров",
+          "out": "Васил Панайотов",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "86",
+          "in": "Жоао Бандаро",
+          "out": "Цветомир Панов чмо /контузия/",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "90",
+          "in": "Мартин Паскалев",
+          "out": "Бирсент Карагарен",
+          "forUs": false
+        }
+      ]
+    },
+    {
+      "round": "25 кръг",
+      "date": "2026-03-07",
+      "opponent": "Септември (Сф)",
+      "isHome": false,
+      "score": "0:3",
+      "venue": "Национален стадион \"Васил Левски\"",
+      "city": "София",
+      "referee": "Геро Писков (Сф)",
+      "attendance": null,
+      "weather": "14/15 С, слънчево",
+      "events": [
+        {
+          "type": "goal",
+          "minute": "18",
+          "scorer": "Селсо Сидней",
+          "assist": "Цветомир Панов",
+          "isPenalty": false,
+          "isOwnGoal": false,
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "36",
+          "player": "Берк Бейхан",
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "42",
+          "player": "Робин Схаутен",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "пвр",
+          "in": "Аюб Абу",
+          "out": "Кубрат Йонашчъ",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "пвр",
+          "in": "Едней Рибейро",
+          "out": "Галин Иванов",
+          "forUs": false
+        },
+        {
+          "type": "goal",
+          "minute": "48",
+          "scorer": "Васил Панайотов",
+          "assist": null,
+          "isPenalty": false,
+          "isOwnGoal": false,
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "55",
+          "player": "Даниел Мартин",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "58",
+          "in": "Фаиз Матуар",
+          "out": "Никола Фонтен",
+          "forUs": false
+        },
+        {
+          "type": "goal",
+          "minute": "66",
+          "scorer": "Хорхе Падиля",
+          "assist": "Даниел Мартин",
+          "isPenalty": false,
+          "isOwnGoal": false,
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "66",
+          "in": "Стоян Стоичков",
+          "out": "Йоан Бауренски",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "66",
+          "in": "Валон Хамдиу",
+          "out": "Стефан Стоянович",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "73",
+          "in": "Асен Дончев",
+          "out": "Димитър Тонев",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "73",
+          "in": "Андреяс Калкан",
+          "out": "Берк Бейхан",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "78",
+          "in": "Давид Телеш",
+          "out": "Хорхе Падиля",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "86",
+          "in": "Георги Лазаров",
+          "out": "Селсо Сидней",
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "86",
+          "player": "Асен Чандъров",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "87",
+          "in": "Николай Златев",
+          "out": "Асен Чандъров",
+          "forUs": true
+        }
+      ]
+    },
+    {
+      "round": "26 кръг",
+      "date": "2026-03-15",
+      "opponent": "Монтана",
+      "isHome": true,
+      "score": "1:0",
+      "venue": "ст.\"Тича\"",
+      "city": "Варна",
+      "referee": "Християна Гутева (Сф)",
+      "attendance": null,
+      "weather": "11/10 С, слънчево",
+      "events": [
+        {
+          "type": "substitution",
+          "minute": "пвр",
+          "in": "Георги Лазаров",
+          "out": "Николай Златев",
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "58",
+          "player": "Цветомир Панов",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "62",
+          "in": "Андреяс Калкан",
+          "out": "Хорхе Падиля",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "62",
+          "in": "Жоао Бандаро",
+          "out": "Цветомир Панов",
+          "forUs": true
+        },
+        {
+          "type": "goal",
+          "minute": "65",
+          "scorer": "Берк Бейхан",
+          "assist": null,
+          "isPenalty": false,
+          "isOwnGoal": false,
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "65",
+          "in": "Томас Азеведо",
+          "out": "Ваджеба Сакор",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "76",
+          "in": "Иван Коконов",
+          "out": "Александър Тодоров",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "76",
+          "in": "Ибрахим Мухамад",
+          "out": "Димитър Буров",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "84",
+          "in": "Давид Телеш",
+          "out": "Берк Бейхан",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "85",
+          "in": "Петър Андреев",
+          "out": "Филип Еджике",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "88",
+          "in": "Асен Дончев",
+          "out": "Селсо Сидней",
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "89",
+          "player": "Томас Азеведо",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "90+2",
+          "player": "Давид Телеш",
+          "forUs": true
+        }
+      ]
+    },
+    {
+      "round": "27 кръг",
+      "date": "2026-03-21",
+      "opponent": "Левски (Сф)",
+      "isHome": false,
+      "score": "2:1",
+      "venue": "ст.\"Георги Аспарухов\"",
+      "city": "София",
+      "referee": "Любослав Любомиров (Пк)",
+      "attendance": null,
+      "weather": "8/7 С, предимно облачно",
+      "events": [
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "40",
+          "player": "Асен Чандъров",
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "45",
+          "player": "Акрам Бурас",
+          "forUs": false
+        },
+        {
+          "type": "goal",
+          "minute": "53",
+          "scorer": "Евертон Бала",
+          "assist": "Алдаир Невес",
+          "isPenalty": false,
+          "isOwnGoal": false,
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "59",
+          "in": "Николай Златев",
+          "out": "Асен Дончев",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "59",
+          "in": "Берк Бейхан",
+          "out": "Георги Лазаров",
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "59",
+          "player": "Асен Дончев",
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "60",
+          "player": "Цветомир Панов",
+          "forUs": true
+        },
+        {
+          "type": "goal",
+          "minute": "67",
+          "scorer": "Кристиан Томов",
+          "assist": null,
+          "isPenalty": true,
+          "isOwnGoal": true,
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "69",
+          "in": "Хуан Переа",
+          "out": "Армстронг Око-Флекс",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "79",
+          "in": "Андреяс Калкан",
+          "out": "Васил Панайотов",
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "80",
+          "player": "Кристиан Димитров",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "83",
+          "in": "Радослав Кирилов",
+          "out": "Мазир Сула",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "83",
+          "in": "Карлос Охене",
+          "out": "Алдаир Невес",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "84",
+          "in": "Росен Стефанов",
+          "out": "Цветомир Панов",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "84",
+          "in": "Хорхе Падиля",
+          "out": "Димитър Тонев",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "90+1",
+          "in": "Асен Митков",
+          "out": "Акрам Бурас",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "90+1",
+          "in": "Никола Серафимов",
+          "out": "Кристиан Димитров",
+          "forUs": false
+        },
+        {
+          "type": "goal",
+          "minute": "90+4",
+          "scorer": "Асен Чандъров",
+          "assist": "ъглов",
+          "isPenalty": false,
+          "isOwnGoal": false,
+          "forUs": true
+        }
+      ]
+    },
+    {
+      "round": "28 кръг",
+      "date": "2026-04-05",
+      "opponent": "Славия",
+      "isHome": true,
+      "score": "1:3",
+      "venue": "ст.\"Тича\"",
+      "city": "Варна",
+      "referee": "Радослав Гидженов (Пд)",
+      "attendance": null,
+      "weather": "17/16 С, слънчево",
+      "events": [
+        {
+          "type": "goal",
+          "minute": "11",
+          "scorer": "Илиян Стефанов",
+          "assist": "Янис Гермуш",
+          "isPenalty": false,
+          "isOwnGoal": false,
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "42",
+          "player": "Влатко Дробаров",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "пвр",
+          "in": "Николай Златев",
+          "out": "Андреяс Калкан",
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "53",
+          "player": "Илиян Стефанов",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "54",
+          "player": "Ертан Томбак",
+          "forUs": true
+        },
+        {
+          "type": "goal",
+          "minute": "56",
+          "scorer": "Янис Гермуш",
+          "assist": null,
+          "isPenalty": true,
+          "isOwnGoal": false,
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "61",
+          "in": "Васил Казълджиев",
+          "out": "Кристиян Балов сла /контузия/",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "63",
+          "player": "Давид Малембана",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "66",
+          "in": "Хорхе Падиля",
+          "out": "Георги Лазаров",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "66",
+          "in": "Асен Дончев",
+          "out": "Димитър Тонев",
+          "forUs": true
+        },
+        {
+          "type": "goal",
+          "minute": "71",
+          "scorer": "Васил Панайотов",
+          "assist": null,
+          "isPenalty": false,
+          "isOwnGoal": false,
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "76",
+          "in": "Лука Иванов",
+          "out": "Янис Гермуш",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "76",
+          "in": "Георги Шопов",
+          "out": "Иван Минчев",
+          "forUs": false
+        },
+        {
+          "type": "goal",
+          "minute": "78",
+          "scorer": "Емил Стоев",
+          "assist": null,
+          "isPenalty": false,
+          "isOwnGoal": false,
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "83",
+          "in": "Цветомир Панов",
+          "out": "Ертан Томбак",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "83",
+          "in": "Давид Телеш",
+          "out": "Васил Панайотов",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "86",
+          "in": "Марко Милетич",
+          "out": "Илиян Стефанов",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "86",
+          "in": "Емилиян Гогев",
+          "out": "Емил Стоев",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "90+3",
+          "player": "Георги Шопов",
+          "forUs": false
+        }
+      ]
+    },
+    {
+      "round": "29 кръг",
+      "date": "2026-04-09",
+      "opponent": "Лудогорец",
+      "isHome": false,
+      "score": "0:0",
+      "venue": "ст.\"Хювефарма арена\"",
+      "city": "Разград",
+      "referee": "Георги Кабаков (Пд)",
+      "attendance": null,
+      "weather": "8/6 С, облачно/дъжд/облачно",
+      "events": [
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "41",
+          "player": "Росен Стефанов",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "58",
+          "in": "Едвин Куртулус",
+          "out": "Динис Алмейда",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "58",
+          "in": "Бърнард Текпетей",
+          "out": "Филип Калоч",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "64",
+          "player": "Васил Панайотов",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "74",
+          "in": "Антон Недялков",
+          "out": "Винисиус Ногейра",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "74",
+          "in": "Алберто Салидо",
+          "out": "Куадво Дуа",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "85",
+          "in": "Франсиско Сон",
+          "out": "Йоел Андерсон",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "90",
+          "player": "Оливие Вердон",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "90+2",
+          "in": "Николай Златев",
+          "out": "Хорхе Падиля",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "90+2",
+          "in": "Жоао Бандаро",
+          "out": "Васил Панайотов",
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "90+2",
+          "player": "Кристиан",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "90+5",
+          "in": "Андреяс Калкан",
+          "out": "Димитър Тонев",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "90+7",
+          "in": "Ертан Томбак",
+          "out": "Селсо Сидней",
+          "forUs": true
+        }
+      ]
+    },
+    {
+      "round": "30 кръг",
+      "date": "2026-04-15",
+      "opponent": "ФК ЦСКА 1948",
+      "isHome": true,
+      "score": "0:4",
+      "venue": "ст.\"Тича\"",
+      "city": "Варна",
+      "referee": "Васил Минев (Сф)",
+      "attendance": null,
+      "weather": "11/10 С, облачно",
+      "events": [
+        {
+          "type": "goal",
+          "minute": "7",
+          "scorer": "Елиас Франко",
+          "assist": "ъглов",
+          "isPenalty": false,
+          "isOwnGoal": false,
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "15",
+          "player": "Лаша Двали",
+          "forUs": false
+        },
+        {
+          "type": "goal",
+          "minute": "24",
+          "scorer": "Браян Собреро",
+          "assist": null,
+          "isPenalty": false,
+          "isOwnGoal": false,
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "41",
+          "in": "Марто Бойчев",
+          "out": "Йоан Манян ц48 /контузия/",
+          "forUs": false
+        },
+        {
+          "type": "goal",
+          "minute": "42",
+          "scorer": "Мамаду Диало",
+          "assist": null,
+          "isPenalty": true,
+          "isOwnGoal": false,
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "45+3",
+          "player": "Асен Чандъров",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "пвр",
+          "in": "Берк Бейхан",
+          "out": "Давид Телеш",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "пвр",
+          "in": "Асен Дончев",
+          "out": "Асен Чандъров",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "пвр",
+          "in": "Николай Златев",
+          "out": "Селсо Сидней",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "пвр",
+          "in": "Андреяс Калкан",
+          "out": "Димитър Тонев",
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "52",
+          "player": "Даниел Мартин",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "61",
+          "in": "Давид Ака",
+          "out": "Флориан Кребс",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "72",
+          "in": "Андре Хофман",
+          "out": "Петър Витанов",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "72",
+          "in": "Атанас Илиев",
+          "out": "Мамаду Диало",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "73",
+          "in": "Фредерик Масиел",
+          "out": "Елиас Франко",
+          "forUs": false
+        },
+        {
+          "type": "goal",
+          "minute": "80",
+          "scorer": "Атанас Илиев",
+          "assist": "Фредерик Масиел",
+          "isPenalty": false,
+          "isOwnGoal": false,
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "82",
+          "player": "Живко Атанасов",
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "88",
+          "player": "Хорхе Падиля",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "90",
+          "in": "Николай Костадинов",
+          "out": "Васил Панайотов",
+          "forUs": true
+        }
+      ]
+    },
+    {
+      "round": "31 кръг",
+      "date": "2026-04-26",
+      "opponent": "Локомотив (Пд)",
+      "isHome": false,
+      "score": "0:1",
+      "venue": "ст.\"Локомотив\"",
+      "city": "Пловдив",
+      "referee": "Георги Гинчев (ВТ)",
+      "attendance": null,
+      "weather": "28/27 С, слънчево",
+      "events": [
+        {
+          "type": "substitution",
+          "minute": "8",
+          "in": "Селсо Сидней",
+          "out": "Димитър Тонев чмо /контузия/",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "15",
+          "in": "Лукас Риан",
+          "out": "Мартин Русков лок /контузия/",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "36",
+          "in": "Георги Чорбаджийски",
+          "out": "Парвизджон Умарбаев лок /контузия/",
+          "forUs": false
+        },
+        {
+          "type": "goal",
+          "minute": "45+2",
+          "scorer": "Лукас Риан АВТОГОЛ",
+          "assist": null,
+          "isPenalty": false,
+          "isOwnGoal": true,
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "пвр",
+          "in": "Запро Динев",
+          "out": "Каталин Иту",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "57",
+          "player": "Лукас Риан",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "57",
+          "player": "Асен Дончев",
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "60",
+          "player": "Берк Бейхан",
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "64",
+          "player": "Давид Телеш",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "72",
+          "in": "Росен Стефанов",
+          "out": "Жоао Бандаро",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "72",
+          "in": "Асен Чандъров",
+          "out": "Берк Бейхан",
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "74",
+          "player": "Влатко Дробаров",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "75",
+          "in": "Миха Търдан",
+          "out": "Ивайло Иванов",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "76",
+          "in": "Жулиан Лами",
+          "out": "Ефе Али",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "86",
+          "in": "Георги Лазаров",
+          "out": "Асен Дончев",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "86",
+          "in": "Николай Златев",
+          "out": "Давид Телеш",
+          "forUs": true
+        }
+      ]
+    },
+    {
+      "round": "32 кръг",
+      "date": "2026-05-03",
+      "opponent": "Арда",
+      "isHome": false,
+      "score": "0:0",
+      "venue": "ст.\"Арена Арда\"",
+      "city": "Кърджали",
+      "referee": "Радослав Гидженов (Пд)",
+      "attendance": null,
+      "weather": "9/11 С, предимно облачно",
+      "events": [
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "25",
+          "player": "Васил Панайотов",
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "56",
+          "player": "Даниел Мартин",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "59",
+          "in": "Георги Лазаров",
+          "out": "Николай Златев",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "68",
+          "in": "Росен Стефанов",
+          "out": "Влатко Дробаров",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "68",
+          "in": "Андреяс Калкан",
+          "out": "Давид Телеш",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "72",
+          "in": "Патрик Луан",
+          "out": "Уилсон Самаке",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "72",
+          "in": "Андре Шиняшики",
+          "out": "Серкан Юсеин",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "86",
+          "player": "Светослав Ковачев",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "90+3",
+          "in": "Пламен Крачунов",
+          "out": "Бирсент Карагарен",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "90+4",
+          "in": "Цветомир Панов",
+          "out": "Селсо Сидней",
+          "forUs": true
+        }
+      ]
+    },
+    {
+      "round": "33 кръг",
+      "date": "2026-05-09",
+      "opponent": "Ботев (Пд)",
+      "isHome": true,
+      "score": "2:0",
+      "venue": "ст.\"Тича\"",
+      "city": "Варна",
+      "referee": "Георги Давидов (ВT)",
+      "attendance": null,
+      "weather": "18/16 С, облачно",
+      "events": [
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "26",
+          "player": "Селсо Сидней",
+          "forUs": true
+        },
+        {
+          "type": "goal",
+          "minute": "41",
+          "scorer": "Асен Чандъров",
+          "assist": null,
+          "isPenalty": true,
+          "isOwnGoal": false,
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "пвр",
+          "in": "Чимези Уилямс",
+          "out": "Самуил Цонов",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "пвр",
+          "in": "Едсон Силва",
+          "out": "Лукас Араужо",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "55",
+          "player": "Константинос Балоянис",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "60",
+          "in": "Асен Дончев",
+          "out": "Селсо Сидней",
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "73",
+          "player": "Антоан Конте",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "88",
+          "in": "Ивайло Видев",
+          "out": "Антоан Конте",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "89",
+          "in": "Закария Тиндано",
+          "out": "Енок Куатенг",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "90+2",
+          "player": "Едсон Силва",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "90+5",
+          "player": "Живко Атанасов",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "90+6",
+          "in": "Ифена Доргу",
+          "out": "Франклин Маскоте",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "90+13",
+          "player": "Самюел Калу",
+          "forUs": false
+        },
+        {
+          "type": "goal",
+          "minute": "90+17",
+          "scorer": "Асен Дончев",
+          "assist": null,
+          "isPenalty": true,
+          "isOwnGoal": false,
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "90+19",
+          "in": "Николай Златев",
+          "out": "Васил Панайотов",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "90+19",
+          "in": "Давид Телеш",
+          "out": "Георги Лазаров",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "90+19",
+          "in": "Николай Костадинов",
+          "out": "Берк Бейхан",
+          "forUs": true
+        }
+      ]
+    },
+    {
+      "round": "34 кръг",
+      "date": "2026-05-12",
+      "opponent": "Локомотив (Пд)",
+      "isHome": true,
+      "score": "2:0",
+      "venue": "ст.\"Тича\"",
+      "city": "Варна",
+      "referee": "Стоян Арсов (Сф)",
+      "attendance": null,
+      "weather": "21/18 С, облачно/дъжд/разкъсана облачност",
+      "events": [
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "7",
+          "player": "Мартин Атанасов",
+          "forUs": false
+        },
+        {
+          "type": "goal",
+          "minute": "40",
+          "scorer": "Асен Чандъров",
+          "assist": null,
+          "isPenalty": false,
+          "isOwnGoal": false,
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "40",
+          "player": "Ивайло Иванов",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "42",
+          "player": "Асен Чандъров",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "пвр",
+          "in": "Давид Телеш",
+          "out": "Берк Бейхан",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "54",
+          "in": "Андреяс Калкан",
+          "out": "Васил Панайотов чмо /контузия/",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "61",
+          "player": "Андреяс Калкан",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "62",
+          "in": "Димитър Илиев",
+          "out": "Георги Чорбаджийски",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "62",
+          "in": "Миха Търдан",
+          "out": "Мартин Атанасов",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "62",
+          "in": "Джани Тума",
+          "out": "Жулиан Лами",
+          "forUs": false
+        },
+        {
+          "type": "goal",
+          "minute": "65",
+          "scorer": "Асен Дончев",
+          "assist": "Ертан Томбак",
+          "isPenalty": false,
+          "isOwnGoal": false,
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "71",
+          "player": "Георги Лазаров",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "76",
+          "in": "Крист Лонгвил",
+          "out": "Севи Идриз",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "76",
+          "in": "Николай Златев",
+          "out": "Емануил Няголов",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "79",
+          "in": "Аксел Велев",
+          "out": "Ефе Али",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "84",
+          "player": "Ивайло Иванов",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "red",
+          "minute": "84",
+          "player": "Ивайло Иванов",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "85",
+          "player": "Тодор Павлов",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "89",
+          "in": "Николай Костадинов",
+          "out": "Асен Чандъров",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "89",
+          "in": "Росен Стефанов",
+          "out": "Влатко Дробаров",
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "90",
+          "player": "Андрей Киндриш",
+          "forUs": false
+        }
+      ]
+    },
+    {
+      "round": "35 кръг",
+      "date": "2026-05-16",
+      "opponent": "Ботев (Пд)",
+      "isHome": false,
+      "score": "5:0",
+      "venue": "ст.\"Христо Ботев\"",
+      "city": "Пловдив",
+      "referee": "Любослав Любомиров (Пк)",
+      "attendance": 1932,
+      "weather": "22/16 С, дъжд",
+      "events": [
+        {
+          "type": "goal",
+          "minute": "20",
+          "scorer": "Симеон Петров",
+          "assist": "ъглов",
+          "isPenalty": false,
+          "isOwnGoal": false,
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "пвр",
+          "in": "Енрике Жоку",
+          "out": "Едсон Силва",
+          "forUs": false
+        },
+        {
+          "type": "goal",
+          "minute": "50",
+          "scorer": "Франклин Маскоте",
+          "assist": "Карлос Меоти",
+          "isPenalty": false,
+          "isOwnGoal": false,
+          "forUs": false
+        },
+        {
+          "type": "goal",
+          "minute": "55",
+          "scorer": "Енок Куатенг",
+          "assist": "Карлос Меоти",
+          "isPenalty": false,
+          "isOwnGoal": false,
+          "forUs": false
+        },
+        {
+          "type": "goal",
+          "minute": "57",
+          "scorer": "Никола Илиев",
+          "assist": "Карлос Меоти",
+          "isPenalty": false,
+          "isOwnGoal": false,
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "62",
+          "in": "Николай Златев",
+          "out": "Емануил Няголов",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "62",
+          "in": "Георги Лазаров",
+          "out": "Жоао Бандаро",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "62",
+          "in": "Андреяс Калкан",
+          "out": "Берк Бейхан",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "64",
+          "in": "Закария Тиндано",
+          "out": "Симеон Петров",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "64",
+          "in": "Педро Игор",
+          "out": "Чимези Уилямс",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "71",
+          "in": "Самуил Цонов",
+          "out": "Карлос Меоти",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "76",
+          "in": "Ифена Доргу",
+          "out": "Франклин Маскоте",
+          "forUs": false
+        },
+        {
+          "type": "goal",
+          "minute": "77",
+          "scorer": "Самуил Цонов",
+          "assist": "Ифена Доргу",
+          "isPenalty": false,
+          "isOwnGoal": false,
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "78",
+          "in": "Кристиан Михайлов",
+          "out": "Селсо Сидней",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "84",
+          "in": "Георги Пасков",
+          "out": "Давид Телеш",
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "87",
+          "player": "Закария Тиндано",
+          "forUs": false
+        }
+      ]
+    },
+    {
+      "round": "36 кръг",
+      "date": "2026-05-25",
+      "opponent": "Арда",
+      "isHome": true,
+      "score": "2:3",
+      "venue": "ст.\"Тича\"",
+      "city": "Варна",
+      "referee": "Кристиян Колев (Пд)",
+      "attendance": null,
+      "weather": "25/23 С, предимно облачно/разкъсана облачност",
+      "events": [
+        {
+          "type": "goal",
+          "minute": "8",
+          "scorer": "Асен Дончев",
+          "assist": null,
+          "isPenalty": false,
+          "isOwnGoal": false,
+          "forUs": true
+        },
+        {
+          "type": "goal",
+          "minute": "46",
+          "scorer": "Бирсент Карагарен",
+          "assist": "Андре Шиняшики",
+          "isPenalty": false,
+          "isOwnGoal": false,
+          "forUs": false
+        },
+        {
+          "type": "goal",
+          "minute": "53",
+          "scorer": "Бирсент Карагарен",
+          "assist": "Уилсон Самаке",
+          "isPenalty": false,
+          "isOwnGoal": false,
+          "forUs": false
+        },
+        {
+          "type": "goal",
+          "minute": "56",
+          "scorer": "Давид Телеш",
+          "assist": null,
+          "isPenalty": false,
+          "isOwnGoal": false,
+          "forUs": true
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "58",
+          "player": "Андре Шиняшики",
+          "forUs": false
+        },
+        {
+          "type": "card",
+          "card": "yellow",
+          "minute": "59",
+          "player": "Асен Дончев",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "63",
+          "in": "Серкан Юсеин",
+          "out": "Джалал Хюсеинов",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "63",
+          "in": "Патрик Луан",
+          "out": "Уилсон Самаке",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "68",
+          "in": "Берк Бейхан",
+          "out": "Давид Телеш",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "68",
+          "in": "Селсо Сидней",
+          "out": "Георги Лазаров",
+          "forUs": true
+        },
+        {
+          "type": "goal",
+          "minute": "72",
+          "scorer": "Серкан Юсеин",
+          "assist": "Антонио Вутов",
+          "isPenalty": false,
+          "isOwnGoal": false,
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "77",
+          "in": "Андреяс Калкан",
+          "out": "Николай Златев",
+          "forUs": true
+        },
+        {
+          "type": "substitution",
+          "minute": "77",
+          "in": "Дейвид Идолу",
+          "out": "Антонио Вутов",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "77",
+          "in": "Густаво Каскардо",
+          "out": "Андре Шиняшики",
+          "forUs": false
+        },
+        {
+          "type": "substitution",
+          "minute": "90+1",
+          "in": "Емил Виячки",
+          "out": "Бирсент Карагарен",
+          "forUs": false
+        }
+      ]
+    }
+  ]
+}

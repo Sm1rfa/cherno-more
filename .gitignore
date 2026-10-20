@@ -1,0 +1,49 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+*.tsbuildinfo
+
+# Secrets
+.env
+.env.*
+!.env.example
+# Holds the VAPID private key — copy config.example.php and fill it in
+public/push/config.php
+
+# PHP push backend: Composer deps (restore with `composer install` in
+# public/push/) and runtime state written by the scripts (subscriptions,
+# match state/logs)
+public/push/vendor/
+public/push/data/*
+!public/push/data/.htaccess
+
+# Planning notes, API samples and scraped raw data — local working material
+docs/plans/
+api-samples.txt
+*-season-main-data.txt
+*.scratch.*
+
+# Claude Code local settings
+.claude/settings.local.json
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+Thumbs.db
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?

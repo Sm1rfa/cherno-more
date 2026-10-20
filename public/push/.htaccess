@@ -1,0 +1,24 @@
+# Only subscribe.php is meant to be requested over HTTP (the browser POSTs
+# to it directly). check-match.php and fetch-news.php are invoked by cron via the PHP CLI on
+# its file path, not as a URL — see README.md. config.php/common.php never
+# need to be requested directly. composer.json/lock are just metadata but
+# blocked too, out of caution.
+<FilesMatch "^(config|common|check-match|fetch-news)\.php$">
+    <IfModule mod_authz_core.c>
+        Require all denied
+    </IfModule>
+    <IfModule !mod_authz_core.c>
+        Order allow,deny
+        Deny from all
+    </IfModule>
+</FilesMatch>
+
+<FilesMatch "composer\.(json|lock)$">
+    <IfModule mod_authz_core.c>
+        Require all denied
+    </IfModule>
+    <IfModule !mod_authz_core.c>
+        Order allow,deny
+        Deny from all
+    </IfModule>
+</FilesMatch>

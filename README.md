@@ -15,9 +15,19 @@ npm run lint
 Optional data refreshes, to run before a build when you want them:
 
 ```sh
+npm run fetch:data      # refreshes public/data/standings.json, fixtures.json, squad.json from bulgarian-football.com
 npm run fetch:news      # regenerates public/data/news.json locally (on the server, cron does this — see Deploy)
 npm run build:history   # regenerates public/data/history/*.json from the local bg-ft-parser output
 ```
+
+`fetch:data` runs `public/push/fetch-data.php`, so it needs PHP 8.2+ but no
+Node or Composer. It prints what changed: rescheduled or finished matches,
+shirt-number changes, new players to complete by hand (position/nationality),
+and squad players who haven't been in a matchday squad. Hand-maintained
+fields (`nameLatin`, `captain`, height/weight, `photo`, `loanedTo`, coaches)
+are never touched; see the comment at the top of the script for the rules.
+The squad part runs at most once per 20 hours. Add `-- --force` to run it
+anyway, or `-- --dry-run` to preview without writing.
 
 ## Build
 
@@ -66,12 +76,13 @@ Installed PWAs pick up a new app version automatically on their next visit (`reg
 
 ### First deploy only: cron jobs
 
-Add two cron jobs in the hosting panel:
+Add these cron jobs in the hosting panel (the third is optional):
 
 | Schedule | Command | What it does |
 |---|---|---|
 | every minute | `/path/to/php8.2-or-newer /home/<account>/<webroot>/push/check-match.php` | live-match push notifications. Exits immediately unless a Cherno More match is within its live window. |
 | every 30 minutes (`*/30 * * * *`) | `/path/to/php8.2-or-newer /home/<account>/<webroot>/push/fetch-news.php` | refreshes `data/news.json` from the club's and Varna24's RSS feeds, so news needs no rebuild. |
+| *optional*, every 3 hours (`0 */3 * * *`) | `/path/to/php8.2-or-newer /home/<account>/<webroot>/push/fetch-data.php --quiet` | refreshes `data/standings.json`, `data/fixtures.json` and (once a day) `data/squad.json` from bulgarian-football.com, so results, rescheduled matches and season stats need no upload. Silent unless something fails. Without it, run `npm run fetch:data` locally and upload those three files. |
 
 Make sure the PHP binary is ≥ 8.2: the generic `php` on shared hosts is often older. To find the absolute path and PHP version, open `https://<site>/push/status.php` once. **Delete `push/status.php` and `push/ping.php` from the server afterwards**, since they're diagnostics only. PHP must be able to write to `push/data/` and `data/`.
 

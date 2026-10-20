@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04",
+  "updatedAt": "2026-10-20",
   "matches": [
     { "round": 1, "date": "2026-07-19", "time": "19:30", "home": "Ботев (Враца)", "away": "Черно море", "homeGoals": 1, "awayGoals": 1,
       "events": [
@@ -208,12 +208,12 @@
         { "type": "card", "card": "yellow", "minute": "95", "player": "Atanas Kabov", "forUs": false },
         { "type": "substitution", "minute": "95", "in": "Мартин Банев", "out": "Идрис Бунаас", "forUs": true }
       ] },
-    { "round": 11, "date": "2026-10-11", "time": "17:30", "home": "Черно море", "away": "Левски (София)", "homeGoals": null, "awayGoals": null },
-    { "round": 12, "date": "2026-10-24", "time": "18:00", "home": "Черно море", "away": "Септември (София)", "homeGoals": null, "awayGoals": null },
-    { "round": 13, "date": "2026-10-31", "time": null, "home": "Славия 1913 (София)", "away": "Черно море", "homeGoals": null, "awayGoals": null },
-    { "round": 14, "date": "2026-11-07", "time": null, "home": "Черно море", "away": "Ботев (Враца)", "homeGoals": null, "awayGoals": null },
-    { "round": 15, "date": "2026-11-21", "time": null, "home": "Спартак 1918 (Варна)", "away": "Черно море", "homeGoals": null, "awayGoals": null },
-    { "round": 16, "date": "2026-11-28", "time": null, "home": "Черно море", "away": "Ботев (Пловдив)", "homeGoals": null, "awayGoals": null },
+    { "round": 11, "date": "2026-10-11", "time": "17:30", "home": "Черно море", "away": "Левски (София)", "homeGoals": 0, "awayGoals": 2 },
+    { "round": 12, "date": "2026-10-27", "time": "17:00", "home": "Черно море", "away": "Септември (София)", "homeGoals": null, "awayGoals": null },
+    { "round": 13, "date": "2026-11-07", "time": "16:00", "home": "Славия 1913 (София)", "away": "Черно море", "homeGoals": null, "awayGoals": null },
+    { "round": 14, "date": "2026-11-02", "time": "17:00", "home": "Черно море", "away": "Ботев (Враца)", "homeGoals": null, "awayGoals": null },
+    { "round": 15, "date": "2026-11-21", "time": "17:15", "home": "Спартак 1918 (Варна)", "away": "Черно море", "homeGoals": null, "awayGoals": null },
+    { "round": 16, "date": "2026-11-28", "time": "17:45", "home": "Черно море", "away": "Ботев (Пловдив)", "homeGoals": null, "awayGoals": null },
     { "round": 17, "date": "2026-12-05", "time": null, "home": "Лудогорец 1945 (Разград)", "away": "Черно море", "homeGoals": null, "awayGoals": null },
     { "round": 18, "date": "2027-02-13", "time": null, "home": "Черно море", "away": "ФК ЦСКА 1948 (София)", "homeGoals": null, "awayGoals": null },
     { "round": 19, "date": "2027-02-20", "time": null, "home": "Дунав от Русе (Русе)", "away": "Черно море", "homeGoals": null, "awayGoals": null },

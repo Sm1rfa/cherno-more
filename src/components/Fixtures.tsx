@@ -164,13 +164,15 @@ function MatchCard({ f }: { f: Fixture }) {
   const us = weHome ? f.teams.home : f.teams.away
   const them = weHome ? f.teams.away : f.teams.home
   const isFinished = result === 'win' || result === 'draw' || result === 'loss'
-  const stage = f.league.round ? `Кръг ${f.league.round}` : ''
+  // League matches show their round; cup matches (no round) their competition.
+  const stage = f.league.round ? `Кръг ${f.league.round}` : f.league.name
+  const isCup = !f.league.round
 
   return (
     <div className={`rounded-xl border overflow-hidden ${RESULT_BADGE[result]}`}>
-      {/* top bar: date + round */}
+      {/* top bar: date + round (or cup name) */}
       <div className="flex justify-between items-center px-3 py-1.5 bg-black/20 text-xs">
-        <span className="text-gray-400">{stage}</span>
+        <span className={isCup ? 'text-[#c9a227] font-semibold' : 'text-gray-400'}>{stage}</span>
         <span className="text-gray-400">{formatDate(date)}</span>
       </div>
 
@@ -344,7 +346,7 @@ export default function Fixtures() {
 
       {/* Season label */}
       <div className="flex items-center justify-between">
-        <span className="text-xs text-gray-500 uppercase tracking-widest">Първа лига</span>
+        <span className="text-xs text-gray-500 uppercase tracking-widest">Първа лига и купи</span>
         <div className="flex items-center gap-2">
           <span className="text-xs font-semibold text-green-400 bg-[#0f2e0f] border border-[#2a5a2a] px-2 py-0.5 rounded">
             Сезон {season}

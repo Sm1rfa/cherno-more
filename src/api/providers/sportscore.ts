@@ -12,6 +12,7 @@
 // ../football.ts.
 
 import { OUR_TEAM_ID } from '../constants'
+import { fetchLeagueRoundsByDate } from './manual'
 import type { Fixture, Standing } from '../../types/football'
 
 const BASE_URL = 'https://sportscore.com'
@@ -19,6 +20,23 @@ const TEAM_SLUG = 'cherno-more-varna'
 const COMPETITION_SLUG = 'bulgarian-first-league'
 const LEAGUE_NAME = 'Bulgarian First League'
 const OUR_TEAM_NAME = 'Cherno More Varna'
+
+// SportScore competition name -> label on the match card. Anything not listed
+// (friendlies) is left out of the Fixtures tab. Keep in sync with
+// DEFAULT_COMPETITIONS in public/push/check-match.php.
+const COMPETITION_LABELS: Record<string, string> = {
+  [LEAGUE_NAME]: 'Първа лига',
+  'Bulgarian Cup': 'Купа на България',
+  'BP Cup': 'Bulgarian Pro Cup',
+}
+// Cup matches have no round; their fixture ids start here so they never
+// collide with league round numbers (fixture.id doubles as a React key).
+const CUP_ID_BASE = 1000
+
+/** "2026-11-02T15:00:00+00:00" -> "2026-11-02", in Bulgarian local time. */
+function localDate(iso: string): string {
+  return new Date(iso).toLocaleDateString('sv-SE', { timeZone: 'Europe/Sofia' })
+}
 
 const teamIds = new Map<string, number>([[OUR_TEAM_NAME, OUR_TEAM_ID]])
 let nextTeamId = OUR_TEAM_ID + 1
@@ -104,29 +122,41 @@ function toNumber(v: string | number | null): number | null {
 }
 
 export async function fetchFixtures(): Promise<Fixture[]> {
-  const data = await fetchJson<TeamResponse>(`/api/v1/team/?sport=football&slug=${TEAM_SLUG}&limit=50`)
+  const [data, roundsByDate] = await Promise.all([
+    fetchJson<TeamResponse>(`/api/v1/team/?sport=football&slug=${TEAM_SLUG}&limit=50`),
+    // Real round numbers from public/data/fixtures.json (refreshed from
+    // bulgarian-football.com) — empty if that file can't be read.
+    fetchLeagueRoundsByDate().catch(() => new Map<string, number>()),
+  ])
 
-  // Cherno More plays exactly once per round in a single round-robin league,
-  // so chronological order among league matches doubles as the round number
-  // — SportScore doesn't expose one directly.
-  const leagueMatches = data.matches
-    .filter((m) => m.competition === LEAGUE_NAME)
+  const matches = data.matches
+    .filter((m) => m.competition in COMPETITION_LABELS)
     .sort((a, b) => new Date(a.time).getTime() - new Date(b.time).getTime())
 
-  return leagueMatches.map((m, i) => {
+  let leagueIndex = 0
+  let cupIndex = 0
+  return matches.map((m) => {
     const homeGoals = toNumber(m.home_score)
     const awayGoals = toNumber(m.away_score)
     const played = homeGoals != null && awayGoals != null
     const draw = played && homeGoals === awayGoals
-    const round = i + 1
+    const isLeague = m.competition === LEAGUE_NAME
+    // SportScore exposes no round number. Prefer the official one for that
+    // date; otherwise fall back to chronological order among league matches,
+    // which is wrong once the BFU reschedules rounds out of order.
+    let round: number | null = null
+    if (isLeague) {
+      leagueIndex += 1
+      round = roundsByDate.get(localDate(m.time)) ?? leagueIndex
+    }
     return {
       fixture: {
-        id: round,
+        id: round ?? CUP_ID_BASE + ++cupIndex,
         date: m.time,
         status: { short: toShortStatus(m.status), elapsed: null },
         slug: matchSlug(m),
       },
-      league: { name: 'Първа лига', round: String(round) },
+      league: { name: COMPETITION_LABELS[m.competition], round: round == null ? '' : String(round) },
       teams: {
         home: { id: idFor(m.home), name: m.home, logo: m.home_logo, winner: played ? (draw ? null : homeGoals! > awayGoals!) : null },
         away: { id: idFor(m.away), name: m.away, logo: m.away_logo, winner: played ? (draw ? null : awayGoals! > homeGoals!) : null },

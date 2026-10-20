@@ -72,6 +72,6 @@ Generated, not hand-edited. On the live server a cron job (`push/fetch-news.php`
 
 ## Updating any of these
 
-1. Edit the file (or re-paste an updated bulgarian-football.com page as a `.txt` and ask for it to be re-parsed).
-2. Bump `updatedAt`.
+1. `standings.json`, `fixtures.json` and `squad.json` can be refreshed automatically: `npm run fetch:data` (or the optional server cron, see the main README) pulls them from bulgarian-football.com and bumps `updatedAt` itself. Hand-maintained fields in `squad.json` (`nameLatin`, `captain`, height/weight, `photo`, `loanedTo`, coaches) are kept, and existing `events` in `fixtures.json` are left alone. Otherwise edit the file by hand.
+2. Bump `updatedAt` (when editing by hand).
 3. Commit, push — your host rebuilds and redeploys. The rebuild itself is trivial (these files aren't compiled, just copied), and once goal.bg is wired up as the live source, updating these becomes optional — they're the fallback, not the only path.

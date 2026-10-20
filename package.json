@@ -8,6 +8,7 @@
     "build": "tsc -b && vite build",
     "lint": "oxlint",
     "preview": "vite preview",
+    "fetch:data": "php public/push/fetch-data.php",
     "fetch:news": "node scripts/fetch-news.mjs",
     "build:history": "node scripts/build-history.mjs"
   },

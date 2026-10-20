@@ -1,9 +1,9 @@
 # Only subscribe.php is meant to be requested over HTTP (the browser POSTs
-# to it directly). check-match.php and fetch-news.php are invoked by cron via the PHP CLI on
-# its file path, not as a URL — see README.md. config.php/common.php never
-# need to be requested directly. composer.json/lock are just metadata but
-# blocked too, out of caution.
-<FilesMatch "^(config|common|check-match|fetch-news)\.php$">
+# to it directly). check-match.php, fetch-news.php and fetch-data.php are
+# invoked by cron via the PHP CLI on their file path, not as a URL — see
+# README.md. config.php/common.php never need to be requested directly.
+# composer.json/lock are just metadata but blocked too, out of caution.
+<FilesMatch "^(config|common|check-match|fetch-news|fetch-data)\.php$">
     <IfModule mod_authz_core.c>
         Require all denied
     </IfModule>

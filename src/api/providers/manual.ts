@@ -79,6 +79,16 @@ export async function fetchFixtures(): Promise<Fixture[]> {
   return data.matches.map(mapMatch)
 }
 
+/**
+ * League round number per match date ("2026-11-02" -> 14). Used by the
+ * SportScore provider, which has no round numbers of its own. Cherno More
+ * plays at most one league match per day, so the date is a safe key.
+ */
+export async function fetchLeagueRoundsByDate(): Promise<Map<string, number>> {
+  const data = await fetchJson<FixturesFile>('/data/fixtures.json')
+  return new Map(data.matches.map((m) => [m.date, m.round]))
+}
+
 export async function fetchFixturesMeta(): Promise<DatasetMeta> {
   const data = await fetchJson<FixturesFile>('/data/fixtures.json')
   return { updatedAt: data.updatedAt }

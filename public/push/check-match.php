@@ -17,13 +17,30 @@ use Minishlink\WebPush\Subscription;
 const OUR_TEAM_NAME = 'Cherno More Varna';
 // Incident types worth waking someone's phone up for — subs are too noisy.
 const PUSHABLE_INCIDENT_TYPES = ['Goal', 'Yellow card', 'Red card'];
+// SportScore competitions whose matches get live pushes (friendlies don't).
+// Same list as COMPETITION_LABELS in src/api/providers/sportscore.ts.
+// config.php can override it with sportscore.competitions; an older
+// config.php's single sportscore.competition is added to the list.
+const DEFAULT_COMPETITIONS = ['Bulgarian First League', 'Bulgarian Cup', 'BP Cup'];
+
+function pushCompetitions(array $config): array {
+    $list = $config['sportscore']['competitions'] ?? DEFAULT_COMPETITIONS;
+    if (isset($config['sportscore']['competition'])) $list[] = $config['sportscore']['competition'];
+    $list = array_values(array_unique($list));
+    sort($list);
+    return $list;
+}
 
 function todaysFixture(array $config): ?array {
     $path = dataPath('today-fixture.json');
     $today = gmdate('Y-m-d');
     $cached = readJsonFile($path, null);
+    $competitions = pushCompetitions($config);
 
-    if ($cached !== null && ($cached['computedDate'] ?? null) === $today) {
+    // The cache also records which competitions it was computed for, so a
+    // changed list (e.g. cups added) takes effect the same day.
+    if ($cached !== null && ($cached['computedDate'] ?? null) === $today
+        && ($cached['competitions'] ?? null) === $competitions) {
         return $cached['fixture']; // may be null: "checked today, nothing found"
     }
 
@@ -44,7 +61,7 @@ function todaysFixture(array $config): ?array {
     $nowTs = time();
     $candidate = null;
     foreach (($data['matches'] ?? []) as $m) {
-        if (($m['competition'] ?? null) !== $config['sportscore']['competition']) continue;
+        if (!in_array($m['competition'] ?? null, $competitions, true)) continue;
         $kickoff = strtotime($m['time'] ?? '');
         if ($kickoff === false) continue;
         // Keep matches from 4h ago (in case of a restart mid-match) onward.
@@ -76,7 +93,7 @@ function todaysFixture(array $config): ?array {
         ];
     }
 
-    writeJsonFile($path, ['computedDate' => $today, 'fixture' => $fixture]);
+    writeJsonFile($path, ['computedDate' => $today, 'competitions' => $competitions, 'fixture' => $fixture]);
     return $fixture;
 }
 

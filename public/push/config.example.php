@@ -12,7 +12,10 @@ return [
     'sportscore' => [
         'baseUrl' => 'https://sportscore.com',
         'teamSlug' => 'cherno-more-varna',
-        'competition' => 'Bulgarian First League',
+        // Optional: competitions that get live pushes. Defaults to league +
+        // Bulgarian Cup + Bulgarian Pro Cup (DEFAULT_COMPETITIONS in
+        // check-match.php); an older single 'competition' key still works.
+        // 'competitions' => ['Bulgarian First League', 'Bulgarian Cup', 'BP Cup'],
     ],
     'dataDir' => __DIR__ . '/data',
     // Same window as src/hooks/useLiveMatch.ts on the frontend — kept in

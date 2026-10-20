@@ -1,4 +1,4 @@
-// Known Bulgarian First Professional League team names (Latin → Cyrillic)
+// Known team names (Latin → Cyrillic): Bulgarian First League clubs plus cup opponents.
 // Using a lookup table because generic transliteration fails on city names like Кърджали.
 // Includes both goal.bg's and SportScore's naming variants for the same clubs
 // (e.g. "Arda" vs "Arda Kardzhali", "FC Dunav Ruse" vs "Dunav Ruse").
@@ -26,6 +26,9 @@ const TEAM_BG: Record<string, string> = {
   'Montana':                 'Монтана',
   'Beroe':                   'Берое',
   'Dobrudzha Dobrich':       'Добруджа Добрич',
+  // Cup opponents (lower leagues) — add new ones as the draw comes out.
+  'Marek Dupnitza':          'Марек Дупница',
+  'Marek Dupnitsa':          'Марек Дупница',
 }
 
 export function teamNameBg(latinName: string): string {

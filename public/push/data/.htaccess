@@ -1,0 +1,10 @@
+# Subscriptions and match-state JSON live here — never web-reachable, only
+# read/written by the PHP scripts one level up. Covers Apache 2.4
+# (mod_authz_core) and 2.2-style hosts (mod_access_compat) alike.
+<IfModule mod_authz_core.c>
+    Require all denied
+</IfModule>
+<IfModule !mod_authz_core.c>
+    Order allow,deny
+    Deny from all
+</IfModule>
